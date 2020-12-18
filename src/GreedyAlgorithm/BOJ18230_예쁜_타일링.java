@@ -1,7 +1,11 @@
+
+package GreedyAlgorithm;
+
 import java.io.*;
 import java.util.*;
 
-public class Main
+// BOJ18230_예쁜_타일링
+public class BOJ18230_예쁜_타일링
 {
 	static int N, A, B, ans;
 	static Integer[ ] tile1, tile2;
@@ -38,7 +42,11 @@ public class Main
 		Arrays.sort(tile2, Collections.reverseOrder( ));
 
 	}
-
+	
+	// 11111
+	// 1112
+	// 122
+	// 순서만 다른 같은 조합에 대한 중복을 고려하여 시간 초과 해결
 	static void solve( )
 	{
 		int tile1_num = 0;
