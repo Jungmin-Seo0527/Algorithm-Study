@@ -4,8 +4,8 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ17144_¹Ì¼¼¸ÕÁö_¾È³ç
-public class BOJ17144_¹Ì¼¼¸ÕÁö_¾È³ç
+// BOJ17144_ë¯¸ì„¸ë¨¼ì§€_
+public class BOJ17144_ë¯¸ì„¸ë¨¼ì§€_ì•ˆë…•
 {
 
 	static class Point
