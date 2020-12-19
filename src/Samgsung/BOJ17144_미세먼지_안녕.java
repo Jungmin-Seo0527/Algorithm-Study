@@ -4,7 +4,7 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ17144_誘몄꽭癒쇱�_
+// BOJ17144_미세먼지_안녕
 public class BOJ17144_미세먼지_안녕
 {
 
