@@ -5,7 +5,8 @@ public class Main
 {
 	public static void main(String[ ] args)
 	{
-		//  한글 테스트 서정민 ㅋㅋㅋ
+		//  한글한글 han
+		// 서정민
 		System.out.println("한글 입니다.");
 	}
 }
