@@ -4,7 +4,7 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ17144_미세먼지_
+// BOJ17144_誘몄꽭癒쇱�_
 public class BOJ17144_미세먼지_안녕
 {
 
@@ -91,7 +91,7 @@ public class BOJ17144_미세먼지_안녕
 		int b_row = cleaner_bottom.row + 2;
 		int b_col = 0;
 
-		// ����
+		// 좌측
 		for (int r = cleaner_top.row - 2; r >= 0; r--)
 		{
 			graph[ r + 1 ][ 0 ] = graph[ r ][ 0 ];
@@ -107,7 +107,7 @@ public class BOJ17144_미세먼지_안녕
 			graph[ R - 1 ][ c ] = graph[ R - 1 ][ c + 1 ];
 		}
 
-		// ����
+		// 우측
 		for (int r = 0; r < cleaner_top.row; r++)
 		{
 			graph[ r ][ C - 1 ] = graph[ r + 1 ][ C - 1 ];
