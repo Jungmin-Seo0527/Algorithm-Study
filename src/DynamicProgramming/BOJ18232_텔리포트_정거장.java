@@ -3,9 +3,9 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ18232_ÅÚ¸®Æ÷Æ®_Á¤°ÅÀå
+// BOJ18232_í…”ë¦¬í¬íŠ¸_ì •ê±°ì¥
 // dp + linkedList[] 
-public class BOJ18232_ÅÚ¸®Æ÷Æ®_Á¤°ÅÀå
+public class BOJ18232_í…”ë¦¬í¬íŠ¸_ì •ê±°ì¥
 {
 	static int N, M, S, E;
 	static int[ ] dp;

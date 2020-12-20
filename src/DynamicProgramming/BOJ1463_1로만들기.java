@@ -4,8 +4,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ1463_1·Î¸¸µé±â
-public class BOJ1463_1·Î¸¸µé±â
+// BOJ1463_1ë¡œë§Œë“¤ê¸°
+public class BOJ1463_1ë¡œë§Œë“¤ê¸°
 {
 	static int N;
 	static int[ ] dp;
@@ -28,13 +28,13 @@ public class BOJ1463_1·Î¸¸µé±â
 	{
 		for (int i = N; i >= 1; i--)
 		{
-			// 3°¡Áö °æ¿ì
+			// 3ê°€ì§€ ê²½ìš°
 			for (int j = 1; j <= 3; j++)
 			{
 				// -1
 				if (j == 1)
 				{
-					if (i - 1 > 0) // ´Ü È®ÀÎÇÏ·Á´Â °÷ÀÌ 1ÀÌ»ó
+					if (i - 1 > 0) // ë‹¨ í™•ì¸í•˜ë ¤ëŠ” ê³³ì´ 1ì´ìƒ
 					{
 						if ((dp[ i - 1 ] > dp[ i ] + 1) || dp[ i - 1 ] == 0)
 						{
@@ -42,7 +42,7 @@ public class BOJ1463_1·Î¸¸µé±â
 						}
 					}
 				}
-				else // 2¶Ç´Â 3À¸·Î ³ª´­¶§ ³ª¸ÓÁö°¡ 0ÀÌ¸é ±×¼ö·Î ³ª´®
+				else // 2ë˜ëŠ” 3ìœ¼ë¡œ ë‚˜ëˆŒë•Œ ë‚˜ë¨¸ì§€ê°€ 0ì´ë©´ ê·¸ìˆ˜ë¡œ ë‚˜ëˆ”
 				{
 					if (i % j == 0 && i / j > 0)
 					{

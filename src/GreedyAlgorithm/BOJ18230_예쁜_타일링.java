@@ -4,8 +4,8 @@ package GreedyAlgorithm;
 import java.io.*;
 import java.util.*;
 
-// BOJ18230_¿¹»Û_Å¸ÀÏ¸µ
-public class BOJ18230_¿¹»Û_Å¸ÀÏ¸µ
+// BOJ18230_ì˜ˆìœ_íƒ€ì¼ë§
+public class BOJ18230_ì˜ˆìœ_íƒ€ì¼ë§
 {
 	static int N, A, B, ans;
 	static Integer[ ] tile1, tile2;
@@ -46,7 +46,7 @@ public class BOJ18230_¿¹»Û_Å¸ÀÏ¸µ
 	// 11111
 	// 1112
 	// 122
-	// ¼ø¼­¸¸ ´Ù¸¥ °°Àº Á¶ÇÕ¿¡ ´ëÇÑ Áßº¹À» °í·ÁÇÏ¿© ½Ã°£ ÃÊ°ú ÇØ°á
+	// ìˆœì„œë§Œ ë‹¤ë¥¸ ê°™ì€ ì¡°í•©ì— ëŒ€í•œ ì¤‘ë³µì„ ê³ ë ¤í•˜ì—¬ ì‹œê°„ ì´ˆê³¼ í•´ê²°
 	static void solve( )
 	{
 		int tile1_num = 0;

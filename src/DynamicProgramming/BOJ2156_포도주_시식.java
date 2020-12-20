@@ -4,8 +4,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ2156_Æ÷µµÁÖ_½Ã½Ä
-public class BOJ2156_Æ÷µµÁÖ_½Ã½Ä
+// BOJ2156_í¬ë„ì£¼_ì‹œì‹
+public class BOJ2156_í¬ë„ì£¼_ì‹œì‹
 {
 	static int n;
 	static int[ ] wine, dp;
@@ -40,8 +40,8 @@ public class BOJ2156_Æ÷µµÁÖ_½Ã½Ä
 		for (int i = 3; i <= n; i++)
 		{
 			dp[ i ] = Integer.max(dp[ i - 2 ], dp[ i - 3 ] + wine[ i - 1 ]) + wine[ i ];
-			dp[ i ] = Integer.max(dp[ i - 1 ], dp[ i ]); // Áß¿ä -> ÇöÀç ³ªÀÇ dp°¡ ÃÖ´ë°ªÀÌ ¾Æ´Ò¼ö ÀÖ´Ù.
-			                                             // ÀÌÀü°ª°ú ºñ±³ÇØ¼­ ÇöÀç ³» À§Ä¡±îÁö ¿Ã¼ö ÀÖ´Â ÃÖ´ë°ªÀ¸·Î °»½Å
+			dp[ i ] = Integer.max(dp[ i - 1 ], dp[ i ]); // ì¤‘ìš” -> í˜„ì¬ ë‚˜ì˜ dpê°€ ìµœëŒ€ê°’ì´ ì•„ë‹ìˆ˜ ìˆë‹¤.
+			                                             // ì´ì „ê°’ê³¼ ë¹„êµí•´ì„œ í˜„ì¬ ë‚´ ìœ„ì¹˜ê¹Œì§€ ì˜¬ìˆ˜ ìˆëŠ” ìµœëŒ€ê°’ìœ¼ë¡œ ê°±ì‹ 
 			ans = Integer.max(ans, dp[ i ]);
 		}
 		System.out.println(ans);

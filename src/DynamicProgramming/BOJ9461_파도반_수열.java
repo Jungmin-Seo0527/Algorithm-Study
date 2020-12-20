@@ -4,8 +4,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ9461_ÆÄµµ¹İ_¼ö¿­
-public class BOJ9461_ÆÄµµ¹İ_¼ö¿­
+// BOJ9461_íŒŒë„ë°˜_ìˆ˜ì—´
+public class BOJ9461_íŒŒë„ë°˜_ìˆ˜ì—´
 {
 	static int T, N;
 	static long[ ] dp;

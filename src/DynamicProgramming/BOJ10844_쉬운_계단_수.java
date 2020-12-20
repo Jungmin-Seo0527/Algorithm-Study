@@ -3,8 +3,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ10844_½¬¿î_°è´Ü_¼ö
-public class BOJ10844_½¬¿î_°è´Ü_¼ö
+// BOJ10844_ì‰¬ìš´_ê³„ë‹¨_ìˆ˜
+public class BOJ10844_ì‰¬ìš´_ê³„ë‹¨_ìˆ˜
 {
 	static int N;
 	static final long FN = 1000000000;

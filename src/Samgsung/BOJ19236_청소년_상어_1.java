@@ -3,9 +3,9 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ19236_Ã»¼Ò³â_»ó¾î
-// ¹è¿­ º¹»ç´Â ³ë°¡´Ù ÇÏÀÚ
-public class BOJ19236_Ã»¼Ò³â_»ó¾î_1
+// BOJ19236_ì²­ì†Œë…„_ìƒì–´
+// ë°°ì—´ ë³µì‚¬ëŠ” ë…¸ê°€ë‹¤ í•˜ì
+public class BOJ19236_ì²­ì†Œë…„_ìƒì–´_1
 {
 	static class FishInfo
 	{
@@ -61,8 +61,8 @@ public class BOJ19236_Ã»¼Ò³â_»ó¾î_1
 		fish[ 0 ] = new FishInfo(0, 0, fish[ graph[ 0 ][ 0 ] ].vector);
 	}
 
-	// ºÒ°¡´ÉÇÑ º¤ÅÍ´Â ¹İ½Ã°è ¹æÇâÀ¸·Î 45µµ È¸ÀüÀ» ÇÏ´Âµ¥
-	// ¹Ù²ï º¤ÅÍ°ªÀ» À¯ÁöÇØ¼­ °¡Áö°í °¡¾ßÇÔ
+	// ë¶ˆê°€ëŠ¥í•œ ë²¡í„°ëŠ” ë°˜ì‹œê³„ ë°©í–¥ìœ¼ë¡œ 45ë„ íšŒì „ì„ í•˜ëŠ”ë°
+	// ë°”ë€ ë²¡í„°ê°’ì„ ìœ ì§€í•´ì„œ ê°€ì§€ê³  ê°€ì•¼í•¨
 	static void moveFish( )
 	{
 		for (int i = 1; i <= 16; i++)
@@ -97,7 +97,7 @@ public class BOJ19236_Ã»¼Ò³â_»ó¾î_1
 		if (r < 0 || r >= SZ) return false;
 		if (c < 0 || c >= SZ) return false;
 		if (fish[ graph[ _r ][ _c ] ].eaten) return false;
-		if (r == fish[ 0 ].row && c == fish[ 0 ].col) return false; // »ó¾î Á¸Àç
+		if (r == fish[ 0 ].row && c == fish[ 0 ].col) return false; // ìƒì–´ ì¡´ì¬
 		if (_r == fish[ 0 ].row && _c == fish[ 0 ].col) return false;
 		return true;
 
@@ -125,7 +125,7 @@ public class BOJ19236_Ã»¼Ò³â_»ó¾î_1
 	}
 
 	// backtracking
-	// ÀÌÀü »óÅÂ¸¦ ÀúÀåÈÄ Àç±Í ÇÔ¼ö ÀÌÈÄ ´Ù½Ã graph¿Í fish¸¦ reset
+	// ì´ì „ ìƒíƒœë¥¼ ì €ì¥í›„ ì¬ê·€ í•¨ìˆ˜ ì´í›„ ë‹¤ì‹œ graphì™€ fishë¥¼ reset
 	static void doDFS(int e)
 	{
 		eatFish( );
@@ -158,7 +158,7 @@ public class BOJ19236_Ã»¼Ò³â_»ó¾î_1
 		}
 	}
 
-	// n¹ø¸¸Å­ »ó¾î¸¦ ¿òÁ÷ÀÎ´Ù.
+	// në²ˆë§Œí¼ ìƒì–´ë¥¼ ì›€ì§ì¸ë‹¤.
 	static boolean moveShark(int n)
 	{
 		int r = fish[ 0 ].row;
@@ -250,4 +250,3 @@ public class BOJ19236_Ã»¼Ò³â_»ó¾î_1
 		System.out.println(sb);
 	}
 }
-

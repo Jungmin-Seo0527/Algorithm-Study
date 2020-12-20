@@ -3,8 +3,8 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ19236_Ã»¼Ò³â_»ó¾î_2
-public class BOJ19236_Ã»¼Ò³â_»ó¾î_2
+// BOJ19236_ì²­ì†Œë…„_ìƒì–´_2
+public class BOJ19236_ì²­ì†Œë…„_ìƒì–´_2
 {
 	static class FishInfo
 	{
@@ -51,7 +51,7 @@ public class BOJ19236_Ã»¼Ò³â_»ó¾î_2
 			}
 		}
 
-		// Ã³À½ »ó¾î À§Ä¡ 
+		// ì²˜ìŒ ìƒì–´ ìœ„ì¹˜ 
 		fish[ 0 ] = new FishInfo(0, 0, fish[ graph[ 0 ][ 0 ] ].vector);
 	}
 
@@ -93,16 +93,16 @@ public class BOJ19236_Ã»¼Ò³â_»ó¾î_2
 	{
 		int r = _r + v_r[ _v ];
 		int c = _c + v_c[ _v ];
-		if (r < 0 || r >= SZ || c < 0 || c >= SZ) return false; // ¹üÀ§ Å»¶ô 
-		if (_r == fish[ 0 ].row && _c == fish[ 0 ].col) return false; // ³» ÀÚ½ÅÀÌ »ó¾î
-		if (r == fish[ 0 ].row && c == fish[ 0 ].col) return false; // °¡·Á°í ÇÏ´Â °÷¿¡ »ó¾î
-		if (fish[ graph[ _r ][ _c ] ].eaten) return false; // ÀÌ¹Ì ³ª´Â ¸ÔÈû
+		if (r < 0 || r >= SZ || c < 0 || c >= SZ) return false; // ë²”ìœ„ íƒˆë½ 
+		if (_r == fish[ 0 ].row && _c == fish[ 0 ].col) return false; // ë‚´ ìì‹ ì´ ìƒì–´
+		if (r == fish[ 0 ].row && c == fish[ 0 ].col) return false; // ê°€ë ¤ê³  í•˜ëŠ” ê³³ì— ìƒì–´
+		if (fish[ graph[ _r ][ _c ] ].eaten) return false; // ì´ë¯¸ ë‚˜ëŠ” ë¨¹í˜
 
 		return true;
 	}
 
 	// fish -> row, col
-	// fish -> vector °»½Å
+	// fish -> vector ê°±ì‹ 
 	// graph
 	static void swapFish(int _r, int _c, int _v)
 	{

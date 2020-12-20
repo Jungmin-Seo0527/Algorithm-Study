@@ -4,8 +4,8 @@ package GreedyAlgorithm;
 import java.io.*;
 import java.util.*;
 
-// BOJ18234_´ç±Ù_ÈÉÃÄ_¸Ô±â
-public class BOJ18234_´ç±Ù_ÈÉÃÄ_¸Ô±â
+// BOJ18234_ë‹¹ê·¼_í›”ì³_ë¨¹ê¸°
+public class BOJ18234_ë‹¹ê·¼_í›”ì³_ë¨¹ê¸°
 {
 	static class Carrot implements Comparable< Carrot >
 	{
@@ -67,10 +67,10 @@ public class BOJ18234_´ç±Ù_ÈÉÃÄ_¸Ô±â
 		Arrays.sort(carrots);
 	}
 
-	// power°¡ Å« ¼ø¼­´ë·Î ´ç±Ù Á¤·Ä
-	// ´ç±ÙµéÀÌ ÃÖ´ë·Î Ä¿Áú¶§±îÁö ´ç±ÙÀ» ¸ÔÁö ¾Ê´Â´Ù.
-	// ÃÖ´ë·Î Ä¿Áö¸é °¡Àå Å«°ÍÀ» ¸Ô°í ¿À´Ã ¸ÔÀº °ÍÀ» »« ÀÌÀü³¯ °¡Àå Å«°ÍÀ» ¸Ô´Â´Ù
-	// ÀÏ¼ö°¡ ¾Æ´Ñ ´ç±Ù °¹¼ö¸¸Å­ 1¹ÙÄû¸¸ µ¹¸é µÈ´Ù.
+	// powerê°€ í° ìˆœì„œëŒ€ë¡œ ë‹¹ê·¼ ì •ë ¬
+	// ë‹¹ê·¼ë“¤ì´ ìµœëŒ€ë¡œ ì»¤ì§ˆë•Œê¹Œì§€ ë‹¹ê·¼ì„ ë¨¹ì§€ ì•ŠëŠ”ë‹¤.
+	// ìµœëŒ€ë¡œ ì»¤ì§€ë©´ ê°€ìž¥ í°ê²ƒì„ ë¨¹ê³  ì˜¤ëŠ˜ ë¨¹ì€ ê²ƒì„ ëº€ ì´ì „ë‚  ê°€ìž¥ í°ê²ƒì„ ë¨¹ëŠ”ë‹¤
+	// ì¼ìˆ˜ê°€ ì•„ë‹Œ ë‹¹ê·¼ ê°¯ìˆ˜ë§Œí¼ 1ë°”í€´ë§Œ ëŒë©´ ëœë‹¤.
 	static void solve( )
 	{
 

@@ -3,8 +3,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ1904_01Å¸ÀÏ
-public class BOJ1904_01Å¸ÀÏ
+// BOJ1904_01íƒ€ì¼
+public class BOJ1904_01íƒ€ì¼
 {
 	static int N;
 	static int[ ] dp;

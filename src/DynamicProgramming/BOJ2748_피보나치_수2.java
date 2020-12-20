@@ -4,7 +4,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-public class BOJ2748_�Ǻ���ġ_��2
+// BOJ2748_피보나치_수2
+public class BOJ2748_피보나치_수2
 {
 	static int N;
 	static long[ ] dp;

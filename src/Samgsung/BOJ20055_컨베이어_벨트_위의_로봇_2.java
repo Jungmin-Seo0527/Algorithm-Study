@@ -3,8 +3,8 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_2
-public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_2
+// BOJ20055_ì»¨ë² ì´ì–´_ë²¨íŠ¸_ìœ„ì˜_ë¡œë´‡_2
+public class BOJ20055_ì»¨ë² ì´ì–´_ë²¨íŠ¸_ìœ„ì˜_ë¡œë´‡_2
 {
 	private static class Belt
 	{

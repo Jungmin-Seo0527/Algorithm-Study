@@ -1,4 +1,3 @@
-
 package Samgsung;
 
 import java.io.*;

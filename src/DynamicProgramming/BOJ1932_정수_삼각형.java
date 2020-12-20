@@ -3,8 +3,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ1932_Á¤¼ö_»ï°¢Çü
-public class BOJ1932_Á¤¼ö_»ï°¢Çü
+// BOJ1932_ì •ìˆ˜_ì‚¼ê°í˜•
+public class BOJ1932_ì •ìˆ˜_ì‚¼ê°í˜•
 {
 	static int n;
 	static int[ ][ ] dp;
@@ -32,7 +32,7 @@ public class BOJ1932_Á¤¼ö_»ï°¢Çü
 		}
 	}
 	
-	// ÇÇ¶ó¹Ìµå °¡Àå ¹ØÃşºÎÅÍ ÀÎÁ¢ÇÑ µÎ ¼öÁß Å«¼ö¸¦ ¹Ù·Î À­ÃşÀÇ ¼ö¿Í ´õÇÔ
+	// í”¼ë¼ë¯¸ë“œ ê°€ì¥ ë°‘ì¸µë¶€í„° ì¸ì ‘í•œ ë‘ ìˆ˜ì¤‘ í°ìˆ˜ë¥¼ ë°”ë¡œ ìœ—ì¸µì˜ ìˆ˜ì™€ ë”í•¨
 	static void solve( )
 	{
 		int start_row = n - 1;

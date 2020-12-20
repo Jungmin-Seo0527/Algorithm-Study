@@ -3,8 +3,8 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ20055 ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿
-public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
+// BOJ20055 ì»¨ë² ì´ì–´_ë²¨íŠ¸_ìœ„ì˜_ë¡œë´‡
+public class BOJ20055_ì»¨ë² ì´ì–´_ë²¨íŠ¸_ìœ„ì˜_ë¡œë´‡_1
 {
 	static int conSZ, end, up, down, ans;
 	static int[ ] container;
@@ -45,7 +45,7 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 		down = conSZ;
 	}
 
-	//	// 1. º§Æ®°¡ ÇÑÄ­ È¸ÀüÇÑ´Ù.
+	//	// 1. ë²¨íŠ¸ê°€ í•œì¹¸ íšŒì „í•œë‹¤.
 	//	static void moveContainer( )
 	//	{
 	//		int container_end = container[ conSZ * 2 - 1 ];
@@ -55,7 +55,7 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 	//		}
 	//		container[ 0 ] = container_end;
 	//
-	//		// º§Æ®°¡ ¿òÁ÷ÀÏ¶§ º§Æ® À§¿¡ ÀÖ´Â ·Îº¿µéµµ ÇÔ²² ¿òÁ÷ÀÓ
+	//		// ë²¨íŠ¸ê°€ ì›€ì§ì¼ë•Œ ë²¨íŠ¸ ìœ„ì— ìˆëŠ” ë¡œë´‡ë“¤ë„ í•¨ê»˜ ì›€ì§ì„
 	//		for (int i = conSZ - 1; i >= 1; i--)
 	//		{
 	//			container_robot[ i ] = container_robot[ i - 1 ];
@@ -63,15 +63,15 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 	//		container_robot[ 0 ] = 0;
 	//	}
 	//
-	//	// 2. ·Îº¿ ÀÌµ¿ -> º§Æ®¿Í ÇÔ²² ¿òÁ÷ÀÌ´Â °ÍÀÌ ¾Æ´Ï¶ó º§Æ®°¡ ¿òÁ÷ÀÎ ÈÄ ·Îº¿ÀÌ µû·Î ÇÑÄ­¾¿ ´õ ¿òÁ÷ÀÎ´Ù
+	//	// 2. ë¡œë´‡ ì´ë™ -> ë²¨íŠ¸ì™€ í•¨ê»˜ ì›€ì§ì´ëŠ” ê²ƒì´ ì•„ë‹ˆë¼ ë²¨íŠ¸ê°€ ì›€ì§ì¸ í›„ ë¡œë´‡ì´ ë”°ë¡œ í•œì¹¸ì”© ë” ì›€ì§ì¸ë‹¤
 	//	static void moveRobot( )
 	//	{
 	//		container_robot[ conSZ - 1 ] = 0;
 	//		for (int i = conSZ - 2; i >= 0; i--)
 	//		{
-	//			if (container_robot[ i ] == 1) // ÄÁÅ×ÀÌ³Ê¿¡ ·Îº¿ÀÌ ÀÖÀ»¶§
+	//			if (container_robot[ i ] == 1) // ì»¨í…Œì´ë„ˆì— ë¡œë´‡ì´ ìˆì„ë•Œ
 	//			{
-	//				if (container[ i + 1 ] > 0 && container_robot[ i + 1 ] == 0) // ´ÙÀ½Ä­ È®ÀÎ
+	//				if (container[ i + 1 ] > 0 && container_robot[ i + 1 ] == 0) // ë‹¤ìŒì¹¸ í™•ì¸
 	//				{
 	//					container[ i + 1 ]--;
 	//					container_robot[ i ] = 0;
@@ -79,7 +79,7 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 	//				}
 	//			}
 	//		}
-	//		// ÄÁÅ×ÀÌ³Ê Ã¹Ä­ È®ÀÎ ÈÄ ·Îº¿ ¿Ã¸®±â
+	//		// ì»¨í…Œì´ë„ˆ ì²«ì¹¸ í™•ì¸ í›„ ë¡œë´‡ ì˜¬ë¦¬ê¸°
 	//		if (container_robot[ 0 ] == 0 && container[ 0 ] > 0)
 	//		{
 	//			container[ 0 ]--;
@@ -87,12 +87,12 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 	//		}
 	//	}
 
-	// ½Ã°£ÃÊ°ú->
+	// ì‹œê°„ì´ˆê³¼->
 	//
-	// º§Æ®°¡ ¿òÁ÷ÀÌ´Â
-	// °Í°ú ·Îº¿ÀÌ
-	// ¿òÁ÷ÀÌ´Â ¹İº¹¹®À»
-	// ÇÑ¹ø¿¡ Ã³¸®==>½Ã°£ÃÊ°ú
+	// ë²¨íŠ¸ê°€ ì›€ì§ì´ëŠ”
+	// ê²ƒê³¼ ë¡œë´‡ì´
+	// ì›€ì§ì´ëŠ” ë°˜ë³µë¬¸ì„
+	// í•œë²ˆì— ì²˜ë¦¬==>ì‹œê°„ì´ˆê³¼
 
 	//	static void move( )
 	//	{
@@ -105,9 +105,9 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 	//			if (i <= conSZ - 2)
 	//			{
 	//				container_robot[ i ] = container_robot[ i - 1 ];
-	//				if (container_robot[ i ] == 1) // ÄÁÅ×ÀÌ³Ê¿¡ ·Îº¿ÀÌ ÀÖÀ»¶§
+	//				if (container_robot[ i ] == 1) // ì»¨í…Œì´ë„ˆì— ë¡œë´‡ì´ ìˆì„ë•Œ
 	//				{
-	//					if (container[ i + 1 ] > 0 && container_robot[ i + 1 ] == 0) // ´ÙÀ½Ä­ È®ÀÎ
+	//					if (container[ i + 1 ] > 0 && container_robot[ i + 1 ] == 0) // ë‹¤ìŒì¹¸ í™•ì¸
 	//					{
 	//						container[ i + 1 ]--;
 	//						container_robot[ i ] = 0;
@@ -134,7 +134,7 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 	//
 	//	}
 
-	// º§Æ®°¡ ¿òÁ÷ÀÏ¶§ º§Æ® ¹è¿­À» ¿òÁ÷ÀÌ´Â °ÍÀÌ ¾Æ´Ï¶ó ½ÃÀÛ°ú ³¡ ÀÎµ¦½º¸¦ º¯°æÇÏ´Â ¹æ¹ı
+	// ë²¨íŠ¸ê°€ ì›€ì§ì¼ë•Œ ë²¨íŠ¸ ë°°ì—´ì„ ì›€ì§ì´ëŠ” ê²ƒì´ ì•„ë‹ˆë¼ ì‹œì‘ê³¼ ë ì¸ë±ìŠ¤ë¥¼ ë³€ê²½í•˜ëŠ” ë°©ë²•
 	static void moveContainer( )
 	{
 		down--;
@@ -143,28 +143,28 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 		if (up == 0) up = conSZ * 2;
 	}
 
-	// que -> robotµéÀÇ À§Ä¡ Á¤º¸ ÀúÀå
+	// que -> robotë“¤ì˜ ìœ„ì¹˜ ì •ë³´ ì €ì¥
 	static void moveRobot( )
 	{
 		int que_size = que.size( );
 		for (int i = 0; i < que_size; i++)
 		{
 			int cur_pos = que.poll( );
-			if (cur_pos == down) // ·Îº¿ À§Ä¡°¡ down
+			if (cur_pos == down) // ë¡œë´‡ ìœ„ì¹˜ê°€ down
 			{
 				robots[ cur_pos ] = false;
 				continue;
 			}
 			
-			// ÇöÀç À§Ä¡ÀÇ ´ÙÀ½ À§Ä¡(·Îº¿ÀÌ ¿òÁ÷ÀÏ À§Ä¡ Á¤º¸) Á¶»ç
+			// í˜„ì¬ ìœ„ì¹˜ì˜ ë‹¤ìŒ ìœ„ì¹˜(ë¡œë´‡ì´ ì›€ì§ì¼ ìœ„ì¹˜ ì •ë³´) ì¡°ì‚¬
 			int next_pos = cur_pos + 1;
 			if (next_pos > conSZ * 2) next_pos = 1;
 
-			// ³»±¸¼ºÀÌ 0ÀÌ»óÀÌ°í ÇØ´ç À§Ä¡¿¡ ·Îº¿ÀÌ Á¸ÀçÇÏÁö ¾ÊÀ½
+			// ë‚´êµ¬ì„±ì´ 0ì´ìƒì´ê³  í•´ë‹¹ ìœ„ì¹˜ì— ë¡œë´‡ì´ ì¡´ì¬í•˜ì§€ ì•ŠìŒ
 			if (container[ next_pos ] > 0 && !robots[ next_pos ])
 			{
 				container[ next_pos ]--;
-				if (next_pos == down) // ´ÙÀ½ À§Ä¡°¡ down
+				if (next_pos == down) // ë‹¤ìŒ ìœ„ì¹˜ê°€ down
 				{
 					robots[ cur_pos ] = false;
 					continue;
@@ -180,7 +180,7 @@ public class BOJ20055_ÄÁº£ÀÌ¾î_º§Æ®_À§ÀÇ_·Îº¿_1
 			}
 		}
 
-		// up À§Ä¡¿¡ ·Îº¿ ¿Ã¸®±â
+		// up ìœ„ì¹˜ì— ë¡œë´‡ ì˜¬ë¦¬ê¸°
 		if (container[ up ] > 0 && robots[ up ] == false)
 		{
 			container[ up ]--;

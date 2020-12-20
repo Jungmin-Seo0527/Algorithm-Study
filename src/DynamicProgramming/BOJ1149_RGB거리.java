@@ -4,8 +4,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ1149_RGB°Å¸®
-public class BOJ1149_RGB°Å¸®
+// BOJ1149_RGBê±°ë¦¬
+public class BOJ1149_RGBê±°ë¦¬
 {
 	static int N;
 	static int[ ][ ] dp;

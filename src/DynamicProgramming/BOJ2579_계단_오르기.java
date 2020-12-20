@@ -4,8 +4,8 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ2579_°è´Ü_¿À¸£±â
-public class BOJ2579_°è´Ü_¿À¸£±â
+// BOJ2579_ê³„ë‹¨_ì˜¤ë¥´ê¸°
+public class BOJ2579_ê³„ë‹¨_ì˜¤ë¥´ê¸°
 {
 	static int N;
 	static int[ ] dp, stair;

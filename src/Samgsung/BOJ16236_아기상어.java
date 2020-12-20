@@ -3,8 +3,8 @@ package Samgsung;
 import java.io.*;
 import java.util.*;
 
-// BOJ16236_¾Æ±â»ó¾î
-public class BOJ16236_¾Æ±â»ó¾î
+// BOJ16236_ì•„ê¸°ìƒì–´
+public class BOJ16236_ì•„ê¸°ìƒì–´
 {
 	private static class Point implements Comparable< Point >
 	{
@@ -17,8 +17,8 @@ public class BOJ16236_¾Æ±â»ó¾î
 		}
 
 		@Override
-		// priority queue ÀÌ¿ë
-		// ¿ì¼±¼øÀ§ Á¶°Ç : 1. °Å¸® 2. row  3. col
+		// priority queue ì´ìš©
+		// ìš°ì„ ìˆœìœ„ ì¡°ê±´ : 1. ê±°ë¦¬ 2. row  3. col
 		public int compareTo(Point o)
 		{
 			// TODO Auto-generated method stub
@@ -89,7 +89,7 @@ public class BOJ16236_¾Æ±â»ó¾î
 		cur_size = 2;
 	}
 
-	// ¸ÔÀÌ Ã£±â
+	// ë¨¹ì´ ì°¾ê¸°
 	static boolean doBFS( )
 	{
 		PriorityQueue< Point > pq = new PriorityQueue<>( );
@@ -105,7 +105,7 @@ public class BOJ16236_¾Æ±â»ó¾î
 		{
 			Point cur = pq.poll( );
 
-			// ¸ÔÀ»¼ö ÀÖ´Â ¸ÔÀÌ Á¸Àç
+			// ë¨¹ì„ìˆ˜ ìˆëŠ” ë¨¹ì´ ì¡´ì¬
 			if (graph[ cur.row ][ cur.col ] < cur_size && graph[ cur.row ][ cur.col ] != 0)
 			{
 				num++;
@@ -127,9 +127,9 @@ public class BOJ16236_¾Æ±â»ó¾î
 				Point next = new Point(cur.row + v_r[ i ], cur.col + v_c[ i ]);
 				if (check(next, visited))
 				{
-					// °¥¼ö ¾ø´Â °÷(³ªº¸´Ù ¸ÔÀÌ°¡ ´õ Å«°÷)À» °í·Á ÇØ¾ßÇÏ±â ¶§¹®¿¡ Æ÷ÀÎÆ®¸¶´Ù ½ÃÀÛÁ¡À¸·ÎºÎÅÍÀÇ
-					// °Å¸®¸¦ ´©Àû½ÃÅ°¸é¼­ ´ÙÀ½ Æ÷ÀÎÆ®·Î ÀÌµ¿ÇÒ¶§ ¸¶´Ù +1À» ÇØÁØ´Ù.
-					// startÁöÁ¡¿¡¼­ºÎÅÍ ±×³É rowÄ­, colÄ­ ´õÇØ¼­ °Å¸®¸¦ ±¸ÇÏ¸é °¥¼ö ¾ø´Â ÁöÁ¡ °í·Á ¾ÈµÊ(Æ²¸° ÀÌÀ¯¿´À½)
+					// ê°ˆìˆ˜ ì—†ëŠ” ê³³(ë‚˜ë³´ë‹¤ ë¨¹ì´ê°€ ë” í°ê³³)ì„ ê³ ë ¤ í•´ì•¼í•˜ê¸° ë•Œë¬¸ì— í¬ì¸íŠ¸ë§ˆë‹¤ ì‹œì‘ì ìœ¼ë¡œë¶€í„°ì˜
+					// ê±°ë¦¬ë¥¼ ëˆ„ì ì‹œí‚¤ë©´ì„œ ë‹¤ìŒ í¬ì¸íŠ¸ë¡œ ì´ë™í• ë•Œ ë§ˆë‹¤ +1ì„ í•´ì¤€ë‹¤.
+					// startì§€ì ì—ì„œë¶€í„° ê·¸ëƒ¥ rowì¹¸, colì¹¸ ë”í•´ì„œ ê±°ë¦¬ë¥¼ êµ¬í•˜ë©´ ê°ˆìˆ˜ ì—†ëŠ” ì§€ì  ê³ ë ¤ ì•ˆë¨(í‹€ë¦° ì´ìœ ì˜€ìŒ)
 					next.dist = cur.dist + 1;
 					pq.offer(next);
 				}
