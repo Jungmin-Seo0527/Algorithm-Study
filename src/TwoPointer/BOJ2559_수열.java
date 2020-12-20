@@ -4,8 +4,8 @@ package TwoPointer;
 import java.io.*;
 import java.util.*;
 
-// BOJ2559_¼ö¿­
-public class BOJ2559_¼ö¿­
+// BOJ2559_ìˆ˜ì—´
+public class BOJ2559_ìˆ˜ì—´
 {
 	static int N, K;
 	static int[ ] graph;
