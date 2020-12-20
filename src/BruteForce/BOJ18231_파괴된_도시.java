@@ -4,8 +4,8 @@ package BruteForce;
 import java.io.*;
 import java.util.*;
 
-// BOJ18231_ÆÄ±«µÈ_µµ½Ã
-public class BOJ18231_ÆÄ±«µÈ_µµ½Ã
+// BOJ18231_íŒŒê´´ëœ_ë„ì‹œ
+public class BOJ18231_íŒŒê´´ëœ_ë„ì‹œ
 {
 	static int N, M, K;
 	static boolean[ ][ ] graph;
@@ -44,14 +44,14 @@ public class BOJ18231_ÆÄ±«µÈ_µµ½Ã
 		}
 	}
 
-	// graph ÀÇ row =0 -> ÇöÀç µµ½Ã »óÅÂ(ÆÄ±« À¯¹«)
+	// graph ì˜ row =0 -> í˜„ì¬ ë„ì‹œ ìƒíƒœ(íŒŒê´´ ìœ ë¬´)
 	static void solve( )
 	{
-		int cnt = 0; // ÆøÅº ÅõÇÏ °¹¼ö
+		int cnt = 0; // í­íƒ„ íˆ¬í•˜ ê°¯ìˆ˜
 		StringBuilder sb = new StringBuilder( );
 		for (int i = 1; i <= N; i++)
 		{
-			if (check(i)) // i µµ½Ã¿¡ ÆøÅº ÅõÇÏ °¡´É ÇÑ°¡?
+			if (check(i)) // i ë„ì‹œì— í­íƒ„ íˆ¬í•˜ ê°€ëŠ¥ í•œê°€?
 			{
 				cnt++;
 				graph[ 0 ][ i ] = true;
@@ -61,7 +61,7 @@ public class BOJ18231_ÆÄ±«µÈ_µµ½Ã
 
 		for (int i = 1; i <= N; i++)
 		{
-			if (graph[ 0 ][ i ] != destroy[ i ]) // ÇöÀç µµ½Ãµé »óÅÂ¿Í ÆøÆÄ µµ½Ã ºñ±³
+			if (graph[ 0 ][ i ] != destroy[ i ]) // í˜„ì¬ ë„ì‹œë“¤ ìƒíƒœì™€ í­íŒŒ ë„ì‹œ ë¹„êµ
 			{
 				System.out.println("-1");
 				return;
@@ -72,8 +72,8 @@ public class BOJ18231_ÆÄ±«µÈ_µµ½Ã
 		System.out.println(sb);
 	}
 
-	// c µµ½Ã¿¡ ÆøÅº ÅõÇÏ½Ã ¿¬°áµÇ¾î ÀÖ´Â µµ½ÃÁß¿¡ ÆÄ±«µÇ¸é ¾ÈµÇ´Â µµ½Ã°¡ ÀÖ´ÂÁö ÆÇº°
-	// c µµ½Ã¿¡ ÆøÅº ÅõÇÏ °¡´ÉÇÏ¸é graphÀÇ row=0 Áï ÇØ´ç µµ½ÃÀÇ »óÅÂ¸¦ ÆøÆÄ·Î º¯°æ
+	// c ë„ì‹œì— í­íƒ„ íˆ¬í•˜ì‹œ ì—°ê²°ë˜ì–´ ìˆëŠ” ë„ì‹œì¤‘ì— íŒŒê´´ë˜ë©´ ì•ˆë˜ëŠ” ë„ì‹œê°€ ìˆëŠ”ì§€ íŒë³„
+	// c ë„ì‹œì— í­íƒ„ íˆ¬í•˜ ê°€ëŠ¥í•˜ë©´ graphì˜ row=0 ì¦‰ í•´ë‹¹ ë„ì‹œì˜ ìƒíƒœë¥¼ í­íŒŒë¡œ ë³€ê²½
 	static boolean check(int c)
 	{
 		if (destroy[ c ] == false) return false;
@@ -83,7 +83,7 @@ public class BOJ18231_ÆÄ±«µÈ_µµ½Ã
 			if (graph[ i ][ c ] == true && destroy[ i ] == false) return false;
 		}
 
-		// ÅõÇÏ °¡´É, µµ½Ã »óÅÂ º¯°æ(ÆøÆÄ)
+		// íˆ¬í•˜ ê°€ëŠ¥, ë„ì‹œ ìƒíƒœ ë³€ê²½(í­íŒŒ)
 		for (int i = 1; i <= N; i++)
 		{
 			if (graph[ i ][ c ] == true && destroy[ i ] == true)

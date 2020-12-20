@@ -4,8 +4,8 @@ package DFS_BFS;
 import java.io.*;
 import java.util.*;
 
-// BOJ18233_·¯¹ö´öÀ»_»ç¶ûÇÏ´Â_¸ğÀÓ
-public class BOJ18233_·¯¹ö´öÀ»_»ç¶ûÇÏ´Â_¸ğÀÓ
+// BOJ18233_ëŸ¬ë²„ë•ì„_ì‚¬ë‘í•˜ëŠ”_ëª¨ì„
+public class BOJ18233_ëŸ¬ë²„ë•ì„_ì‚¬ë‘í•˜ëŠ”_ëª¨ì„
 {
 	static class Info
 	{
@@ -56,7 +56,7 @@ public class BOJ18233_·¯¹ö´öÀ»_»ç¶ûÇÏ´Â_¸ğÀÓ
 		{
 			if (min <= E && max >= E)
 			{
-				// ÇØ°á
+				// í•´ê²°
 				ans = 1;
 				int[ ] ret = new int[ N + 1 ];
 				for (int i = 1; i <= N; i++)
@@ -68,7 +68,7 @@ public class BOJ18233_·¯¹ö´öÀ»_»ç¶ûÇÏ´Â_¸ğÀÓ
 					}
 				}
 
-				// ¹èºĞ
+				// ë°°ë¶„
 				while (true)
 				{
 					if (E == 0) break;
@@ -86,7 +86,7 @@ public class BOJ18233_·¯¹ö´öÀ»_»ç¶ûÇÏ´Â_¸ğÀÓ
 					}
 				}
 
-				// Ãâ·Â
+				// ì¶œë ¥
 				for (int i = 1; i <= N; i++)
 				{
 					System.out.print(ret[ i ] + " ");

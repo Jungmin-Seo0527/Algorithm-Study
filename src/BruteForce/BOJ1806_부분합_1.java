@@ -4,8 +4,8 @@ package BruteForce;
 import java.io.*;
 import java.util.*;
 
-// BOJ1806_ºÎºĞÇÕ
-public class BOJ1806_ºÎºĞÇÕ_1
+// BOJ1806_ë¶€ë¶„í•©
+public class BOJ1806_ë¶€ë¶„í•©_1
 {
 	static int N, S, start, end;
 	static int[ ] graph;
@@ -30,11 +30,6 @@ public class BOJ1806_ºÎºĞÇÕ_1
 			graph[ i ] = Integer.parseInt(st.nextToken( ));
 		}
 	}
-
-	// start+end = sum
-	// sumÀÌ ¸ñÇ¥Ä¡º¸´Ù Å©¸é ±æÀÌ È®ÀÎ ÈÄ end++ (±æÀÌ Áõ°¡·Î sumÀÌ Áõ°¡)
-	// sumÀÌ ¸ñÇ¥Ä¡º¸´Ù ÀÛÀ¸¸é start++ (±æÀÌ °¨¼Ò·Î sumÀÌ °¨¼Ò)
-	// °¡Àå ÂªÀº ±æÀÌ ¹İÈ¯(¸ñÇ¥Ä¡ º¸´Ù Å«ÀûÀÌ ¾øÀ¸¸é Integer.MAX_VALUEÀÌ¹Ç·Î 0À¸·Î ¹Ù²Ş
 	static int solve( )
 	{
 		int ret = Integer.MAX_VALUE;
