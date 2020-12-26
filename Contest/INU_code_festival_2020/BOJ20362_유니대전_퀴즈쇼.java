@@ -1,3 +1,4 @@
+
 package INU_code_festival_2020;
 
 import java.io.*;
@@ -14,7 +15,7 @@ public class BOJ20362_유니대전_퀴즈쇼
 	{
 		inputAndSettingData( );
 	}
-	
+
 	static void inputAndSettingData( ) throws IOException
 	{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -33,7 +34,7 @@ public class BOJ20362_유니대전_퀴즈쇼
 				idx = i; // 정답자의 위치 정보
 			}
 		}
-		
+
 		// 정답자의 위치 정보 이전의 답중 정답자의 답과 일치하는 정답을 외친 인원 count
 		for (int i = 0; i < idx; i++)
 		{
