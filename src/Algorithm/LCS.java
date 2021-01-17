@@ -4,14 +4,17 @@ package Algorithm;
 import java.io.*;
 import java.util.*;
 
+// LCS는 두가지가 있다. 
+// Longest Common Strings는 공통되는 문자열이 붙어있어야 한다.
+// Longest Common Sequences 는 공통되는 순열로 서로 떨어져 있어도 상관 없다
 public class LCS
 {
-	static class LongestCommomStrings
+	static class LongestCommonStrings
 	{
 		String str1, str2;
 		int dp[][];
 
-		public LongestCommomStrings(String str1, String str2)
+		public LongestCommonStrings(String str1, String str2)
 		{
 			this.str1 = new String(str1);
 			this.str2 = new String(str2);
@@ -103,7 +106,7 @@ public class LCS
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String str1 = br.readLine( );
 		String str2 = br.readLine( );
-		//LongestCommomStrings lcs = new LongestCommomStrings(str1, str2);
+		//LongestCommonStrings lcs = new LongestCommonStrings(str1, str2);
 		LongestCommonSequences lcs = new LongestCommonSequences(str1, str2);
 		int ans = lcs.solve( );
 		System.out.println(ans);
