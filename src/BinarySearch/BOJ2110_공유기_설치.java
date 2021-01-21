@@ -16,11 +16,10 @@ public class BOJ2110_공유기_설치
 	public static void main(String[ ] args) throws IOException
 	{
 		inputAndSettingData( );
-		solve( );
-		System.out.println(end);
+		System.out.println(solve( ));
 	}
 
-	static void solve( )
+	static int solve( )
 	{
 		int start = 1;
 		while (start <= end)
@@ -30,6 +29,11 @@ public class BOJ2110_공유기_설치
 			int temp = arr[ 0 ];
 			for (int i = 1; i < N; i++)
 			{
+				// 오름차순으로 집들의 좌표를 정렬하고
+				// 가장 인접한 두 공유기 사이의 거리의 최대값을 구할때
+				// 무조건 첫번째 집부터 시작할수 밖에 없다.
+				// 두번째 집부터 시작하는것 보다 무조건 첫번째 시작이
+				// 다음 공유기와의 간격이 크거나 같다
 				int d = arr[ i ] - temp;
 				if (d >= mid)
 				{
@@ -37,16 +41,11 @@ public class BOJ2110_공유기_설치
 					temp = arr[ i ];
 				}
 			}
-			//System.out.println(mid + " " + cnt);
-			if (cnt >= C)
-			{
-				ans = mid;
-				start = mid + 1;
-			}
+			//System.out.println(start + " " + end + " " + mid + " " + cnt);
+			if (cnt >= C) start = mid + 1;
 			else end = mid - 1;
-			//System.out.println(start + " " + end);
-			//System.out.println( );
 		}
+		return end;
 	}
 
 	static void inputAndSettingData( ) throws IOException
