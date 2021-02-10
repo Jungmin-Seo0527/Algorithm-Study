@@ -1,10 +1,6 @@
-package DFS_BFS;
 
-import java.io.*;
-import java.util.*;
-
-// BOJ9328_열쇠
 /*
+    BOJ9328_열쇠
     ------------------------------------------------------------------------------
     문제
     상근이는 1층 빌딩에 침입해 매우 중요한 문서를 훔쳐오려고 한다. 상근이가 가지고 있는 평면도에는 문서의 위치가 모두 나타나 있다.
@@ -71,6 +67,11 @@ import java.util.*;
     열쇠또한 같은 열쇠가 여러개 있을수 있다는데 이는 어짜피 하나만 있으면 해당 모든 문을 열수 있기에 조심할 필요는 없다.
     하지만 열쇠를 만났을때 열수 있는 문들이 여러개가 있을 수 있다는 점은 주의해야 한다.
  */
+package DFS_BFS;
+
+import java.io.*;
+import java.util.*;
+
 public class BOJ9328_열쇠 {
     static class Point {
         int row, col;
