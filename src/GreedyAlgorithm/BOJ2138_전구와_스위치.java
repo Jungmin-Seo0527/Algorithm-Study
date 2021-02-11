@@ -31,8 +31,11 @@ import java.util.*;
     모두 구하여서 비교하여 답을 출력했다.
 
     다른사람들의 블로그를 찾아보고 코드도 찾아보니 다들 비슷한 방법으로 풀어냈다.
-    즉 이문제는 첫번째 전구의 상태를 변화시키는 경우, 변화시키지 안흔 경우 모두를 구해서 비교하면 된다.
+    즉 이문제는 첫번째 전구의 상태를 변화시키는 경우, 변화시키지 않은 경우 모두를 구해서 비교하면 된다.
  */
+import java.io.*;
+import java.util.*;
+
 public class BOJ2138_전구와_스위치 {
     static int N;
     static char[] arr1, arr2;
@@ -43,37 +46,35 @@ public class BOJ2138_전구와_스위치 {
     }
 
     static int solve() {
-        int cnt1 = 1;
-        int cnt2 = 0;
+        int ret = Integer.MAX_VALUE;
         char[] copy = arr1.clone();
-        change(arr1, 0);
-        change(arr1, 1);
-        for (int i = 1; i < N; i++) {
-            if (arr1[i - 1] != arr2[i - 1]) {
-                change(arr1, i - 1);
-                change(arr1, i);
-                change(arr1, i + 1);
-                cnt1++;
+        for (int f = 0; f < 2; f++) {
+            int cnt = 0;
+            arr1 = copy.clone();
+            if (f == 1) {
+                changeState(0);
+                cnt++;
             }
-            if (copy[i - 1] != arr2[i - 1]) {
-                change(copy, i - 1);
-                change(copy, i);
-                change(copy, i + 1);
-                cnt2++;
-            }
-        }
 
-        if (arr1[N - 1] != arr2[N - 1]) cnt1 = -1;
-        if (copy[N - 1] != arr2[N - 1]) cnt2 = -1;
-        if (cnt1 == -1 || cnt2 == -1) {
-            return cnt1 != -1 ? cnt1 : cnt2;
-        } else return Math.min(cnt1, cnt2);
+            for (int i = 1; i < N; i++) {
+                if (arr1[i - 1] != arr2[i - 1]) {
+                    changeState(i);
+                    cnt++;
+                }
+            }
+            if (arr1[N - 1] == arr2[N - 1]) ret = Math.min(ret, cnt);
+        }
+        if (ret == Integer.MAX_VALUE) ret = -1;
+        return ret;
     }
 
-    static void change(char[] arr, int idx) {
-        if (idx >= 0 && idx < N) {
-            if (arr[idx] == '0') arr[idx] = '1';
-            else arr[idx] = '0';
+    static void changeState(int idx) {
+        for (int i = -1; i <= 1; i++) {
+            int cur = idx + i;
+            if (cur >= 0 && cur < N) {
+                if (arr1[cur] == '0') arr1[cur] = '1';
+                else arr1[cur] = '0';
+            }
         }
     }
 
@@ -87,4 +88,5 @@ public class BOJ2138_전구와_스위치 {
         arr2 = br.readLine().toCharArray();
     }
 }
+
 
