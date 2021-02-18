@@ -1,5 +1,5 @@
 
-package Codeforces_Round690_Div3;
+package Codeforces.R690D3;
 
 import java.io.*;
 import java.util.*;
