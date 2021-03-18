@@ -46,6 +46,7 @@ import java.io.*;
 import java.util.*;
 
 public class BOJ5213_과외맨 {
+
     static class Point {
         int row, col;
 
@@ -55,11 +56,10 @@ public class BOJ5213_과외맨 {
         }
     }
 
-    static int N, end;
-    static int[] root;
-    static int[][] tile, map;
-    static boolean[] visited;
 
+    static int N;
+    static int[] visited;
+    static int[][] map, groupNum;
     static int[] v_r = {1, -1, 0, 0};
     static int[] v_c = {0, 0, 1, -1};
 
@@ -69,59 +69,42 @@ public class BOJ5213_과외맨 {
     }
 
     static void solve() {
-        doBFS();
-        showAns();
-    }
-
-    static void doBFS() {
+        int end = 1;
         Queue<Point> que = new LinkedList<>();
         que.add(new Point(1, 1));
         que.add(new Point(1, 2));
-        visited[1] = true;
-
+        visited[1] = -1;
         while (!que.isEmpty()) {
             Point cur = que.poll();
-
-            if (end < tile[cur.row][cur.col]) {
-                end = tile[cur.row][cur.col];
-            }
+            end = Math.max(end, groupNum[cur.row][cur.col]);
 
             for (int i = 0; i < 4; i++) {
                 Point next = new Point(cur.row + v_r[i], cur.col + v_c[i]);
-                if (check(cur, next)) {
-                    root[tile[next.row][next.col]] = tile[cur.row][cur.col];
-                    visited[tile[next.row][next.col]] = true;
+                if (checkBoundary(next)
+                        && visited[groupNum[next.row][next.col]] == 0
+                        && map[cur.row][cur.col] == map[next.row][next.col]) {
+                    visited[groupNum[next.row][next.col]] = groupNum[cur.row][cur.col];
                     que.add(next);
-                    que.add(sameTile(next));
+                    if (next.col + 1 <= 2 * N && groupNum[next.row][next.col + 1] == groupNum[next.row][next.col])
+                        que.add(new Point(next.row, next.col + 1));
+                    else que.add(new Point(next.row, next.col - 1));
                 }
             }
-
         }
+        showRoot(end);
     }
 
-    static boolean check(Point cur, Point next) {
-        if (next.row < 1 || next.row > N || next.col < 1 || next.col > 2 * N) return false;
-        if (tile[next.row][next.col] == 0) return false;
-        if (visited[tile[next.row][next.col]]) return false;
-
-        return map[cur.row][cur.col] == map[next.row][next.col];
+    static boolean checkBoundary(Point p) {
+        return p.row > 0 && p.row <= N && p.col > 0 && p.col <= 2 * N;
     }
 
-    static Point sameTile(Point next) {
-        if (next.col + 1 <= 2 * N && tile[next.row][next.col] == tile[next.row][next.col + 1])
-            return new Point(next.row, next.col + 1);
-        else return new Point(next.row, next.col - 1);
-    }
-
-    static void showAns() {
+    static void showRoot(int end) {
         StringBuilder sb = new StringBuilder();
         Stack<Integer> stack = new Stack<>();
-        while (end != 1) {
+        while (end != -1) {
             stack.add(end);
-            end = root[end];
+            end = visited[end];
         }
-        stack.push(1);
-
         sb.append(stack.size()).append("\n");
         while (!stack.isEmpty()) {
             sb.append(stack.pop()).append(" ");
@@ -133,30 +116,25 @@ public class BOJ5213_과외맨 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
-        map = new int[N + 1][2 * N + 1];
-        tile = new int[N + 1][2 * N + 1];
-        int tileNum = 1;
-        int r = 1, c = 1;
+        map = new int[2 * N + 1][2 * N + 1];
+        groupNum = new int[2 * N + 1][2 * N + 1];
 
+        int gn = 1, r = 1, c = 1;
         for (int i = 0; i < N * N - N / 2; i++) {
             st = new StringTokenizer(br.readLine());
-            int t1 = Integer.parseInt(st.nextToken());
-            int t2 = Integer.parseInt(st.nextToken());
-
-            map[r][c] = t1;
-            tile[r][c++] = tileNum;
-            map[r][c] = t2;
-            tile[r][c++] = tileNum++;
-
-            if (r % 2 == 1 && c == 2 * N + 1) {
+            int n1 = Integer.parseInt(st.nextToken());
+            int n2 = Integer.parseInt(st.nextToken());
+            map[r][c] = n1;
+            groupNum[r][c++] = gn;
+            map[r][c] = n2;
+            groupNum[r][c++] = gn++;
+            if ((r % 2 == 1 && c > 2 * N) || (r % 2 == 0 && c > 2 * N - 1)) {
                 r++;
-                c = 2;
-            } else if (r % 2 == 0 && c == 2 * N) {
-                r++;
-                c = 1;
+                if (r % 2 == 0) c = 2;
+                else c = 1;
             }
         }
-        visited = new boolean[tileNum];
-        root = new int[tileNum];
+        visited = new int[gn];
+
     }
 }
