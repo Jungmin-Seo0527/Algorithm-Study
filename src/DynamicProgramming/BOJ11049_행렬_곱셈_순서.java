@@ -48,7 +48,34 @@
     나머지 부분은 메모제이션이다. 만약 doDFS(left, right) 연산을 통해서 left 번째 행렬부터 right 번째 행렬까지의 연산의 최대값을
     구한 이력이 있다면 다음 이 부분이 필요할때는 이미 dp에 저장되어 있는 값을 쓰는 것이다.
 
-    다음에는 분할정복으로 푸는 방법, 플로이드 와샬 방법으로 푸는 방법을 소개할 예정이다.
+    재귀로 배열을 쪼개면서 최하위 단계부터 연산을 시작하는 방법이 solve() 라면 solve2() 에서는 재귀가 아닌 단순 반복문으로 같은
+    과정을 거친다.
+    사실 재귀는 함수를 호출하는 시간이 포함되어서 일반적인 반복문보다 처리 시간이 오래 걸린다. 하지만 개인적으로 코드의 가독성은
+    재귀가 더 편해 보인다. (지극히 개인적인 의견.. 아마 반복문보다 재귀를 먼저 썻고 더 많이, 오래 썻던 이유일지도...)
+    생각은 재귀로 풀때랑 같다.
+
+    left, right간의 간격이 작은때부터 연산을 시작하면그 그 최소값을 dp에 저장하면서 left와 right의 간격을 점점 넓히는 것이 일반
+    반복문의 아이디어이다.
+    ```java
+        static void solve2() {
+        for (int d = 1; d < N; d++) {
+            for (int l = 0; l + d < N; l++) {
+                int r = l + d;
+                dp[l][r] = Integer.MAX_VALUE;
+                for (int mid = l; mid < r; mid++) {
+                    dp[l][r] = Math.min(dp[l][r],
+                            dp[l][mid] + dp[mid + 1][r] + matrix[l].row * matrix[mid].col * matrix[r].col);
+                }
+            }
+        }
+        System.out.println(dp[0][N - 1]);
+    }
+    ```
+    코드를 보면 l = left, r = right 이다.
+    그리고 d가 중요한데 left와 right의 간격이다.
+    재귀를 할때 가장 중요했던것이 가장 밑단의 단계부터 연산을 하여 그 결과값을 토대로 상위의 단계의 연산을 수행하는 것이었다.
+    반복문에서는 d=1부터, 즉 left와 right의 간격이 1인 경우에서 부터 모두 연산을 수행한다. 그리고 그 간격을 1씩 증가시킨다.
+    결국 재귀로 풀때와 같은 방법이다. (점화식은 재귀로 풀때와 완전히 동일)
     --------------------------------------------------------------------------------------------------------------------
  */
 package DynamicProgramming;
@@ -90,6 +117,20 @@ public class BOJ11049_행렬_곱셈_순서 {
                     + matrix[left].row * matrix[i].col * matrix[right].col);
         }
         return dp[left][right] = ret;
+    }
+
+    static void solve2() {
+        for (int d = 1; d < N; d++) {
+            for (int l = 0; l + d < N; l++) {
+                int r = l + d;
+                dp[l][r] = Integer.MAX_VALUE;
+                for (int mid = l; mid < r; mid++) {
+                    dp[l][r] = Math.min(dp[l][r],
+                            dp[l][mid] + dp[mid + 1][r] + matrix[l].row * matrix[mid].col * matrix[r].col);
+                }
+            }
+        }
+        System.out.println(dp[0][N - 1]);
     }
 
     static void inputAndSettingData() throws IOException {
