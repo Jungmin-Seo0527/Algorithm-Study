@@ -1,4 +1,4 @@
-package DFS_BFS;
+package Samgsung;
 
 
 import java.io.*;
