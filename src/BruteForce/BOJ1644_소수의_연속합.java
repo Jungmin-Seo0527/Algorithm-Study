@@ -1,80 +1,57 @@
-
 package BruteForce;
 
 import java.io.*;
 import java.util.*;
 
-// BOJ1644_소수의_연속합
-// 소수 판별, 두 포인터
-public class BOJ1644_소수의_연속합
-{
-	static int N, primeCnt;
-	static final int SZ = 4000000;
+public class BOJ1644_소수의_연속합 {
 
-	static boolean isPrime[] = new boolean[ SZ + 1 ];
-	static int prime[] = new int[ SZ + 1 ];
+    static int N, primeCnt;
+    static boolean[] isPrime;
+    static int[] primeArr;
 
-	public static void main(String[ ] args) throws IOException
-	{
-		inputAndSettingData( );
-		solve( );
-	}
+    public static void main(String[] args) throws IOException {
+        inputAndSettingData();
+        solve();
+    }
 
-	// 소수 배열을 두포인터로 연속 합 구하기
-	static void solve( )
-	{
-		int start = 0;
-		int end = 0;
-		int sum = 0;
-		int cnt = 0;
-		while (start <= end && end < primeCnt)
-		{
-			if (sum < N)
-			{
-				sum += prime[ end ];
-				end++;
-			}
-			else if (sum > N)
-			{
-				sum -= prime[ start ];
-				start++;
-			}
-			else
-			{
-				cnt++;
-				sum -= prime[ start ];
-				start++;
-			}
-		}
-		System.out.println(cnt);
-	}
+    static void solve() {
+        initPrimeArr();
+        int start = 0, end = 0, sum = 0, ans = 0;
+        while (start <= end && end <= primeCnt) {
+            if (sum < N) {
+                sum += primeArr[end++];
+            } else if (sum > N) {
+                sum -= primeArr[start++];
+            } else {
+                sum -= primeArr[start++];
+                ans++;
+            }
+        }
+        System.out.println(ans);
+    }
 
-	static void inputAndSettingData( ) throws IOException
-	{
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine( ));
-		N = Integer.parseInt(st.nextToken( ));
+    static void initPrimeArr() {
+        for (int i = 2; i * i <= N; i++) {
+            if (!isPrime[i]) {
+                for (int j = i * i; j <= N; j += i) {
+                    isPrime[j] = true;
+                }
+            }
+        }
 
-		isPrime[ 0 ] = true;
-		isPrime[ 1 ] = true;
-		for (int i = 2; i * i <= SZ; i++)
-		{
-			if (isPrime[ i ] == false)
-			{
-				for (int j = i * i; j <= SZ; j += i)
-				{
-					isPrime[ j ] = true;
-				}
-			}
-		}
+        for (int i = 2; i <= N; i++) {
+            if (!isPrime[i]) {
+                primeArr[primeCnt++] = i;
+            }
+        }
+    }
 
-		// 소수배열
-		for (int i = 0; i <= SZ; i++)
-		{
-			if (isPrime[ i ] == false)
-			{
-				prime[ primeCnt++ ] = i;
-			}
-		}
-	}
+    static void inputAndSettingData() throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        N = Integer.parseInt(st.nextToken());
+        isPrime = new boolean[N + 1];
+        primeArr = new int[N + 1];
+    }
 }
+
