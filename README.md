@@ -22,6 +22,8 @@
 
 ### DP
 
+* [BOJ1644 팰린드롬? - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ10942_팰린드롬.md)
+
 ***
 
 <br><br>
