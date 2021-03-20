@@ -30,6 +30,8 @@
 
 ### Greedy
 
+* [BOJ1202 보석도둑](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ1202_보석도둑.md)
+
 ***
 
 <br><br>
