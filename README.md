@@ -11,8 +11,8 @@
 
 ### Binary Search
 
-* [BOJ13397 구간 나누기2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ13397_구간_나누기_2.md)
-* [BOJ1477 휴게소 세우기](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1477_휴게소_세우기.md)
+* [BOJ13397 구간 나누기2 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ13397_구간_나누기_2.md)
+* [BOJ1477 휴게소 세우기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1477_휴게소_세우기.md)
 
 ***
 
