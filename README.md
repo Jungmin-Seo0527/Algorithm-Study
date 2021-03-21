@@ -11,6 +11,8 @@
 
 ### Binary Search
 
+* [BOJ13397 구간 나누기2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ13397_구간_나누기_2.md)
+
 ***
 
 <br><br>
