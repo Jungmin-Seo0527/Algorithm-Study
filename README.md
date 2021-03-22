@@ -30,6 +30,7 @@
 ***
 
 * [BOJ1644 팰린드롬? - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ10942_팰린드롬.md)
+* [BOJ1937 욕심쟁이 판다 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1937_욕심쟁이_판다.md)
 
 <br><br>
 
