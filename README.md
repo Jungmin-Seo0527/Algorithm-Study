@@ -69,4 +69,13 @@
 
 <br><br>
 
+### KAKAO
+
+***
+
+* #### 2021 KAKAO BLIND RECRUITMENT
+    * [신규 아이디 추천](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/신규_아이디_추천.md)
+
+<br><br>
+
            
