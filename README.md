@@ -25,6 +25,7 @@
 * [BOJ12886 돌 그룹 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12886_돌_그룹.md)
 * [BOJ14395 4연산 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ14395_4연산.md)
 * [BOJ16954 움직이는 미로 탈출 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16954_움직이는_미로_탈출.md)
+* [BOJ2234 성곽 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2234_성곽.md)
 
 <br><br>
 
