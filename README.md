@@ -35,6 +35,7 @@
 * [BOJ1644 팰린드롬? - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ10942_팰린드롬.md)
 * [BOJ1937 욕심쟁이 판다 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1937_욕심쟁이_판다.md)
 * [BOJ15486 퇴사 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ15486_퇴사2.md)
+* [BOJ11049 행렬 곱셈 순서 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ11049_행렬_곱셈_순서.md)
 
 <br><br>
 
