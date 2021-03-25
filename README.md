@@ -23,7 +23,7 @@
 
 * [BOJ12906 새로운 하노이 탑 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12906_새로운_하노이_탑.md)
 
-* [BOJ12886 돌 그룹](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12886_돌_그룹.md)
+* [BOJ12886 돌 그룹 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12886_돌_그룹.md)
 
 <br><br>
 
@@ -33,6 +33,7 @@
 
 * [BOJ1644 팰린드롬? - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ10942_팰린드롬.md)
 * [BOJ1937 욕심쟁이 판다 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1937_욕심쟁이_판다.md)
+* [BOJ15486 퇴사 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ15486_퇴사2.md)
 
 <br><br>
 
