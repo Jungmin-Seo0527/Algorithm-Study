@@ -66,8 +66,9 @@ public class BOJ12886_돌_그룹 {
                 int temp = copy[i];
                 copy[i] += temp;
                 copy[j] -= temp;
-                if (!visited[copy[0]][copy[1]]) {
+                if (!visited[copy[0]][copy[1]] && !visited[copy[0]][copy[1]]) {
                     visited[copy[0]][copy[1]] = true;
+                    visited[copy[1]][copy[0]] = true;
                     que.add(new State(copy[0], copy[1], copy[2], cur.cnt + 1));
                 }
             }
