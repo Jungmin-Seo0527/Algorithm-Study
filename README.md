@@ -1,12 +1,25 @@
 # Coding Test Study
 
+### 머릿말
+
+***
+
+README에는 목록을 추가중... 이전에 남겼던 문제 풀이 설명은 commit message 혹은 코드 상에 주석으로 남겨두었음을 참고(비교적 최근에 풀었던 문제들은 주석으로 남겨둠)
+
+현재는 새로운 문제들은 바로 마크다운 문서로 남기고 있으며 이전에 풀었던 문제들은 복습차원으로 한번씩 더 풀어보면서 마크다운 문서로 남기는 중 (그렇게 400문제가 남았는데...)
+
+대부분은 백준에서 푼 문제들이며 문서로 남길 문제들은 되도록이면 골드 이상의 난이도 위주로 남길 예정(+실버라도 다시 한번 볼만하다고 생각되는 문제들)
+
+<br><br>
+
 ### Brute Force
 
 ***
 
 * [BOJ1644 소수의 연속합 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ1644_%EC%86%8C%EC%88%98%EC%9D%98_%EC%97%B0%EC%86%8D%ED%95%A9.md)
 * [BOJ4902 삼각형의 값 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ4902_삼각형의_값.md)
-  <br><br>
+
+<br><br>
 
 ### Binary Search
 
