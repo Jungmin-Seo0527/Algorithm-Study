@@ -23,6 +23,8 @@
 
 * [BOJ12906 새로운 하노이 탑 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12906_새로운_하노이_탑.md)
 
+* [BOJ12886 돌 그룹](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12886_돌_그룹.md)
+
 <br><br>
 
 ### DP
