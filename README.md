@@ -94,6 +94,7 @@ README에는 목록을 추가중... 이전에 남겼던 문제 풀이 설명은 
 
 * #### 2021 KAKAO BLIND RECRUITMENT
     * [신규 아이디 추천](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/신규_아이디_추천.md)
+    * [메뉴 리뉴얼](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/메뉴_리뉴얼.md)
 
 <br><br>
 
