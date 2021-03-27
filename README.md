@@ -50,6 +50,7 @@ README에는 목록을 추가중... 이전에 남겼던 문제 풀이 설명은 
 * [BOJ1937 욕심쟁이 판다 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1937_욕심쟁이_판다.md)
 * [BOJ15486 퇴사 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ15486_퇴사2.md)
 * [BOJ11049 행렬 곱셈 순서 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ11049_행렬_곱셈_순서.md)
+* [BOJ1309 동물원 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1309_동물원.md)
 
 <br><br>
 
