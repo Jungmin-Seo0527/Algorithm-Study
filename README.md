@@ -96,6 +96,7 @@ README에는 목록을 추가중... 이전에 남겼던 문제 풀이 설명은 
     * [신규 아이디 추천](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/신규_아이디_추천.md)
     * [메뉴 리뉴얼](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/메뉴_리뉴얼.md)
     * [순위 검색](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/순위_검색.md)
+    * [합승 택시 요금](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/합승_택시_요금.md)
 
 <br><br>
 
