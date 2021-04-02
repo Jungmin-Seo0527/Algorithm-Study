@@ -99,8 +99,9 @@ README에는 목록을 추가중... 이전에 남겼던 문제 풀이 설명은 
     * [순위 검색 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/순위_검색.md)
     * [합승 택시 요금 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/합승_택시_요금.md)
     * [광고 삽입 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/광고_삽입.md)
-  
+
 * #### 2020 KAKAO BLIND RECRUITMENT
+    * [문자열 압축 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/문자열_압축.md)
 
 <br><br>
 
