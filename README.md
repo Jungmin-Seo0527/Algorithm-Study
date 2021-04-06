@@ -4,8 +4,7 @@
 
 ***
 
-README에는 목록을 추가중... 이전에 남겼던 문제 풀이 설명은 commit message 혹은 코드 상에 주석으로 남겨두었음을 참고(비교적 최근에 풀었던 문제들은 주석으로 남겨둠)             
-
+README에는 목록을 추가중... 이전에 남겼던 문제 풀이 설명은 commit message 혹은 코드 상에 주석으로 남겨두었음을 참고(비교적 최근에 풀었던 문제들은 주석으로 남겨둠)
 
 commit message 나 주석으로 문제 풀이를 남긴 문제들을 다시 마크다운 문서화하는 작업 진행중...(새롭게 풀어내는 문제들은 바로바로 문서화 중)
 그렇게 400문제가 남았는데...
@@ -106,7 +105,7 @@ commit message 나 주석으로 문제 풀이를 남긴 문제들을 다시 마�
 * #### 2020 KAKAO BLIND RECRUITMENT
     * [문자열 압축 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/문자열_압축.md)
     * [괄호 변환 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/괄호_변환.md)
-    *[자물쇠와 열쇠 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/자물쇠와_열쇠.md)
+    * [자물쇠와 열쇠 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/자물쇠와_열쇠.md)
 
 <br><br>
 
