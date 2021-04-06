@@ -106,6 +106,7 @@ commit message 나 주석으로 문제 풀이를 남긴 문제들을 다시 마�
 * #### 2020 KAKAO BLIND RECRUITMENT
     * [문자열 압축 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/문자열_압축.md)
     * [괄호 변환 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/괄호_변환.md)
+    *[자물쇠와 열쇠 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/자물쇠와_열쇠.md)
 
 <br><br>
 
