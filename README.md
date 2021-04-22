@@ -14,6 +14,15 @@
 
 * [나의 백준 현황](https://www.acmicpc.net/user/soato1405)
 
+### 표기 방법
+
+***
+
+* BOJ[문제번호] 문제 이름 - 난이도 : 백준
+    * 예) BOJ1644 소수의 연속합 - G3
+* PGM 문제 이름 : 프로그래머스
+    * 예) PGM N으로 표현 - l3
+
 <br><br>
 
 ### Brute Force
@@ -79,7 +88,6 @@
 ***
 
 <br><br>
-
 
 ### Two pointer
 
