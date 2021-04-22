@@ -65,7 +65,7 @@
 * [BOJ11049 행렬 곱셈 순서 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ11049_행렬_곱셈_순서.md)
 * [BOJ1309 동물원 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1309_동물원.md)
 
-* [PGM N으로 표현 - l3]()
+* [PGM N으로 표현 - l3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/PGM_N으로_표현.md)
 
 <br><br>
 
