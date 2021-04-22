@@ -2,7 +2,7 @@ package dp;
 
 import java.util.*;
 
-public class PGMS_N으로_표현 {
+public class PGM_N으로_표현 {
     private Set<Integer>[] dp = new HashSet[9];
 
     public int solution(int N, int number) {
