@@ -2,19 +2,12 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
-
     public static void main(String[] args) throws IOException {
-        inputAndSettingData();
-        solve();
-    }
+        Solution s1 = new Solution();
+        System.out.println("s1 = " + s1.solution(5, 12));
 
-    static void solve() {
+        Solution s2 = new Solution();
+        System.out.println("s2 = " + s2.solution(2, 11));
 
-    }
-
-    static void inputAndSettingData() throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
     }
 }

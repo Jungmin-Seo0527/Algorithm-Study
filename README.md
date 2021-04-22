@@ -46,7 +46,7 @@
 
 <br><br>
 
-### DP
+### dp
 
 ***
 
@@ -55,6 +55,8 @@
 * [BOJ15486 퇴사 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ15486_퇴사2.md)
 * [BOJ11049 행렬 곱셈 순서 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ11049_행렬_곱셈_순서.md)
 * [BOJ1309 동물원 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1309_동물원.md)
+
+* [PGM N으로 표현 - l3]()
 
 <br><br>
 

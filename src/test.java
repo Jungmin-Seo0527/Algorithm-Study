@@ -1,23 +1,14 @@
-/*
-    BOJ
-    --------------------------------------------------------------------------------------------------------------------
-    문제링크 :
-
-    난이도 :
-    --------------------------------------------------------------------------------------------------------------------
-    풀이
-
-    --------------------------------------------------------------------------------------------------------------------
- */
-
 import java.io.*;
 import java.util.*;
 
 public class test {
     public static void main(String[] args) throws IOException {
-        // inputAndSettingData();
+
     }
 
+    static void solve() {
+
+    }
 
     static void inputAndSettingData() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
