@@ -24,4 +24,4 @@ Level 2
 단 주의할 점은 마지막 단계에서 만약 큐에 하나의 값이 있다면 그 값을 검사를 해주어야 한다. 그것만 조심하면 어려울것이 없는 문제이다.
 <br><br>
 
-### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/ds/PGM_더_맵체.java)
+### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/ds/PGM_더_맵게.java)
