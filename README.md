@@ -57,7 +57,7 @@
 
 <br><br>
 
-### dp
+### DP
 
 ***
 
@@ -84,6 +84,14 @@
 ***
 
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
+
+<br><br>
+
+### String
+
+***
+
+* [PGM 가장 큰 수 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/string/PGM_가장_큰_수.md)
 
 <br><br>
 
