@@ -23,7 +23,7 @@
 * BOJ[문제번호] 문제 이름 - 난이도 : 백준
     * 예) BOJ1644 소수의 연속합 - G3
 * PGM 문제 이름 : 프로그래머스
-    * 예) PGM N으로 표현 - l3
+    * 예) PGM N으로 표현 - L3
 
 <br><br>
 
@@ -148,6 +148,7 @@
     * [괄호 변환 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/괄호_변환.md)
     * [자물쇠와 열쇠 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/자물쇠와_열쇠.md)
     * [기둥과 보 설치 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/기둥과_보_설치.md)
+    * [외벽 점검 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/외벽_점검.md)
 
 <br><br>
 
