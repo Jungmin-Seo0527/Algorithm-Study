@@ -154,6 +154,7 @@
 * #### 2019 KAKAO BLIND RECRUITMENT
     * [오픈채팅방 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/오픈채팅방.md)
     * [실패율 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/실패율.md)
+    * [후보키 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/후보키.md)
 
 <br><br>
 
