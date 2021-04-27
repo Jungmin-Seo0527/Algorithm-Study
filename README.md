@@ -155,6 +155,7 @@
     * [오픈채팅방 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/오픈채팅방.md)
     * [실패율 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/실패율.md)
     * [후보키 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/후보키.md)
+    * [길 찾기 게임 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/길_찾기_게임.md)
 
 <br><br>
 
