@@ -151,6 +151,9 @@
     * [외벽 점검 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/외벽_점검.md)
     * [블록 이동하기 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/블록_이동하기.md)
 
+* #### 2019 KAKAO BLIND RECRUITMENT
+    * [오픈채팅방 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2019/오픈채팅방.md)
+
 <br><br>
 
            
