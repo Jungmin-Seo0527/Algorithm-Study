@@ -149,6 +149,7 @@
     * [자물쇠와 열쇠 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/자물쇠와_열쇠.md)
     * [기둥과 보 설치 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/기둥과_보_설치.md)
     * [외벽 점검 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/외벽_점검.md)
+    * [블록 이동하기 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2020/블록_이동하기.md)
 
 <br><br>
 
