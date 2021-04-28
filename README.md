@@ -88,7 +88,9 @@
 * [PGM 기능 개발 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_기능개발.md)
 * [PGM 프린터 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_프린터.md)
 * [PGM 더 맵게 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_더_맵게.md)
-  <br><br>
+* [PGM 이중우선순위큐 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_이중우선순위큐.md)
+
+<br><br>
 
 ### String
 
