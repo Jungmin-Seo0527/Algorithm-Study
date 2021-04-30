@@ -67,7 +67,6 @@
 * [BOJ15486 퇴사 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ15486_퇴사2.md)
 * [BOJ11049 행렬 곱셈 순서 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ11049_행렬_곱셈_순서.md)
 * [BOJ1309 동물원 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1309_동물원.md)
-
 * [PGM N으로 표현 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/PGM_N으로_표현.md)
 
 <br><br>
@@ -138,6 +137,7 @@
 ***
 
 * [BOJ1967 트리의 지름 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/tree/BOJ1967_트리의_지름.md)
+* [BOJ1167 트리의 지름 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/tree/BOJ1167_트리의_지름.md)
 
 <br><br>
 
