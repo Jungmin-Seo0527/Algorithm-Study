@@ -133,6 +133,14 @@
 
 <br><br>
 
+### TREE
+
+***
+
+* [BOJ1967 트리의 지름 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/tree/BOJ1967_트리의_지름.md)
+
+<br><br>
+
 ### KAKAO
 
 ***
