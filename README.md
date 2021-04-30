@@ -171,6 +171,7 @@
 
 * #### 2018 KAKAO BLIND RECRUITMENT
     * [비밀 지도 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/비밀지도.md)
+    * [다트 게임 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/다트_게임.md)
 
 <br><br>
 
