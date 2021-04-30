@@ -56,4 +56,4 @@ Level 3
 
 <br><br>
 
-### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/floyd_warshall/PMG_순위.java)
+### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/floyd_warshall/PGM_순위.java)
