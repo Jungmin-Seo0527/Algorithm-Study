@@ -176,6 +176,7 @@
     * [뉴스 클러스터링 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/뉴스_클러스터링.md)
     * [프렌즈4블록 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/프렌즈4블록.md)
     * [캐시 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/캐시.md)
+    * [방금그곡 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/방금그곡.md)
 
 <br><br>
 
