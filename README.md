@@ -177,6 +177,7 @@
     * [프렌즈4블록 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/프렌즈4블록.md)
     * [캐시 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/캐시.md)
     * [방금그곡 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/방금그곡.md)
+    * [압축 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/압축.md)
 
 <br><br>
 
