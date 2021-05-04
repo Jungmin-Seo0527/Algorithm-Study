@@ -174,13 +174,14 @@
     * [비밀 지도 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/비밀지도.md)
     * [다트 게임 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/다트_게임.md)
     * [뉴스 클러스터링 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/뉴스_클러스터링.md)
-    * [프렌즈4블록 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/프렌즈4블록.md)
+    * [프렌즈4블록 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/프렌즈4블록.md)
     * [캐시 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/캐시.md)
     * [방금그곡 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/방금그곡.md)
     * [압축 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/압축.md)
     * [파일명 정렬 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/파일명_정렬.md)
     * [n진수 게임 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/n진수_게임.md)
     * [추석 트래픽 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/추석_트래픽.md)
+    * [셔틀버스 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/셔틀버스.md)
 
 <br><br>
 
