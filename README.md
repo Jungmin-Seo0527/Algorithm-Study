@@ -180,6 +180,7 @@
     * [압축 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/압축.md)
     * [파일명 정렬 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/파일명_정렬.md)
     * [n진수 게임 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/n진수_게임.md)
+    * [추석 트래픽 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/추석_트래픽.md)
 
 <br><br>
 
