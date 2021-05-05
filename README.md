@@ -107,6 +107,8 @@
 
 ### MST
 
+* [BOJ1197 최소 스패닝 트리 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1197_최소_스패닝_트리.md)
+
 ***
 
 <br><br>
@@ -182,6 +184,7 @@
     * [n진수 게임 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/n진수_게임.md)
     * [추석 트래픽 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/추석_트래픽.md)
     * [셔틀버스 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/셔틀버스.md)
+    * [자동완성 - L4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/자동완성.md)
 
 * #### 2020 KAKAO INTERNSHIP
     * [키패드 누르기 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/키패드_누르기.md)
