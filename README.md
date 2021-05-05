@@ -187,6 +187,7 @@
     * [키패드 누르기 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/키패드_누르기.md)
     * [수식 최대화 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/수식_최대화.md)
     * [보석 쇼핑 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/보석_쇼핑.md)
+    * [경주로 건설 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/경주로_건설.md)
 
 <br><br>
 
