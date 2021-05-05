@@ -184,7 +184,8 @@
     * [셔틀버스 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/셔틀버스.md)
 
 * #### 2020 KAKAO INTERNSHIP
-    * [키패드 누르기 - l1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/키패드_누르기.md)
+    * [키패드 누르기 - l2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/키패드_누르기.md)
+    * [수식 최대화 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/수식_최대화.md)
 
 <br><br>
 
