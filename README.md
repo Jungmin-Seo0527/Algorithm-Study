@@ -183,6 +183,9 @@
     * [추석 트래픽 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/추석_트래픽.md)
     * [셔틀버스 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/셔틀버스.md)
 
+* #### 2020 KAKAO INTERNSHIP
+    * [키패드 누르기 - l1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/키패드_누르기.md)
+
 <br><br>
 
            
