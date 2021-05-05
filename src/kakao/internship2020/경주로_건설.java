@@ -1,7 +1,9 @@
+package kakao.internship2020;
+
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-public class Solution {
+public class 경주로_건설 {
     private int N;
     private int[][] board;
     private int[] vc = {1, -1, 0, 0};
