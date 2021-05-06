@@ -88,6 +88,7 @@
 * [PGM 프린터 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_프린터.md)
 * [PGM 더 맵게 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_더_맵게.md)
 * [PGM 이중우선순위큐 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_이중우선순위큐.md)
+* [PGM 디스크 컨트롤러 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_디스크_컨트롤러.md)
 
 <br><br>
 
