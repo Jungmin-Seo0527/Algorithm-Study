@@ -1,8 +1,10 @@
+package kakao.internship2019;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-class Solution {
+public class 크레인_인형뽑기_게임 {
     private int N;
     private int[] moves;
     private final List<Stack<Integer>> game = new ArrayList<>();
