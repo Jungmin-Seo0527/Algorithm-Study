@@ -195,6 +195,9 @@
     * [보석 쇼핑 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/보석_쇼핑.md)
     * [경주로 건설 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/경주로_건설.md)
 
+* #### 2019 KAKAO INTERNSHIP
+    * [크레인 인형 뽑기 게임 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/크레인_인형뽑기_게임.md)
+
 <br><br>
 
            
