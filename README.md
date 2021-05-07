@@ -197,6 +197,7 @@
 
 * #### 2019 KAKAO INTERNSHIP
     * [크레인 인형 뽑기 게임 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/크레인_인형뽑기_게임.md)
+    * [튜플 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/튜플.md)
 
 <br><br>
 
