@@ -110,6 +110,7 @@
 
 * [BOJ1261 알고스팟 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1261_알고스팟.md)
 * [BOJ1238 파티 -G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1238_파티.md)
+* [BOJ1504 특정한 최단 경로 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1504_특정한_최단_경로.md)
 
 <br><br>
 
