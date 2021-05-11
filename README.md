@@ -113,14 +113,15 @@
 * [BOJ1504 특정한 최단 경로 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1504_특정한_최단_경로.md)
 * [BOJ13911 집 구하기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ13911_집_구하기.md)
 * [BOJ13549 숨바꼭질3 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ13549_숨바꼭질3.md)
+* [BOJ4485 녹색 옷 입은 애가 젤다지? - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ4485_녹색_옷_입은_애가_젤다지.md)
 
 <br><br>
 
 ### MST
 
-* [BOJ1197 최소 스패닝 트리 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1197_최소_스패닝_트리.md)
-
 ***
+
+* [BOJ1197 최소 스패닝 트리 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1197_최소_스패닝_트리.md)
 
 <br><br>
 
