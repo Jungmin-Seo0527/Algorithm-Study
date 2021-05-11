@@ -104,9 +104,11 @@
 
 <br><br>
 
-### Simulation
+### Dijkstra
 
 ***
+
+* [BOJ1261 알고스팟 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1261_알고스팟.md)
 
 <br><br>
 
