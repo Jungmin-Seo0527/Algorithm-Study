@@ -111,6 +111,8 @@
 * [BOJ1261 알고스팟 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1261_알고스팟.md)
 * [BOJ1238 파티 -G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1238_파티.md)
 * [BOJ1504 특정한 최단 경로 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1504_특정한_최단_경로.md)
+* [BOJ13911 집 구하기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ13911_집_구하기.md)
+* [BOJ13549 숨바꼭질3 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ13549_숨바꼭질3.md)
 
 <br><br>
 
