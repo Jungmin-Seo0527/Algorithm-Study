@@ -114,6 +114,7 @@
 * [BOJ13911 집 구하기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ13911_집_구하기.md)
 * [BOJ13549 숨바꼭질3 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ13549_숨바꼭질3.md)
 * [BOJ4485 녹색 옷 입은 애가 젤다지? - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ4485_녹색_옷_입은_애가_젤다지.md)
+* [BOJ11779 최소비용 구하기2 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ11779_최소비용_구하기2.md)
 
 <br><br>
 
