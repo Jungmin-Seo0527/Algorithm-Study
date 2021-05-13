@@ -42,6 +42,7 @@
 
 * [BOJ13397 구간 나누기2 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ13397_구간_나누기_2.md)
 * [BOJ1477 휴게소 세우기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1477_휴게소_세우기.md)
+* [BOJ1300 K번째 수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1300_K번째_수.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
 
 <br><br>
