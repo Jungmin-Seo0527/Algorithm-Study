@@ -43,6 +43,7 @@
 * [BOJ13397 구간 나누기2 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ13397_구간_나누기_2.md)
 * [BOJ1477 휴게소 세우기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1477_휴게소_세우기.md)
 * [BOJ1300 K번째 수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1300_K번째_수.md)
+* [BOJ1365 꼬인 전깃줄 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1365_꼬인_전깃줄.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
 
 <br><br>
@@ -213,7 +214,7 @@
     * [튜플 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/튜플.md)
     * [불량 사용자 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/불량_사용자.md)
     * [징검다리 건너기 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/징검다리_건너기.md)
-  
+
 ### Contest
 
 ***
