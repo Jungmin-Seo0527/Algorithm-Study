@@ -44,6 +44,7 @@
 * [BOJ1477 휴게소 세우기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1477_휴게소_세우기.md)
 * [BOJ1300 K번째 수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1300_K번째_수.md)
 * [BOJ1365 꼬인 전깃줄 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1365_꼬인_전깃줄.md)
+* [BOJ1561 놀이 공원 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1561_놀이_공원.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
 
 <br><br>
