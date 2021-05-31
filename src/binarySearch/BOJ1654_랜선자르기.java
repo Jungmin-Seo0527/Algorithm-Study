@@ -1,53 +1,49 @@
-
 package binarySearch;
 
 import java.io.*;
 import java.util.*;
 
-// BOJ1654_랜선자르기
-public class BOJ1654_랜선자르기
-{
-	static int K, N;
-	static int arr[];
+public class BOJ1654_랜선자르기 {
+    static int N, K;
+    static long[] arr;
+    static long max;
 
-	public static void main(String[ ] args) throws IOException
-	{
-		inputAndSettingData( );
-		System.out.println(solve( ));
-	}
+    public static void main(String[] args) throws IOException {
+        inputAndSettingData();
+        solve();
+    }
 
-	static long solve( )
-	{
-		long start = 0;
-		long end = Integer.MAX_VALUE;
+    static void solve() {
+        long start = 0;
+        long end = Integer.MAX_VALUE;
+        while (start <= end) {
+            long mid = (start + end) >>> 1;
+            if (count(mid) < N) {
+                end = mid - 1;
+            } else {
+                start = mid + 1;
+            }
+        }
+        System.out.println(end);
+    }
 
-		while (start <= end)
-		{
-			long sum = 0;
-			long mid = start + end >> 1;
-			for (int i = 0; i < K; i++)
-			{
-				sum += arr[ i ] / mid;
-				if (sum >= N) break;
-			}
-			if (sum < N) end = mid - 1; // 랜선 갯수가 부족 -> 랜선의 길이 감소
-			else start = mid + 1;
-		}
+    static long count(long m) {
+        long ret = 0;
+        for (int i = 0; i < K; i++) {
+            ret += arr[i] / m;
+        }
+        return ret;
+    }
 
-		return end;
-	}
-
-	static void inputAndSettingData( ) throws IOException
-	{
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine( ));
-		K = Integer.parseInt(st.nextToken( ));
-		N = Integer.parseInt(st.nextToken( ));
-		arr = new int[ K ];
-		for (int i = 0; i < K; i++)
-		{
-			st = new StringTokenizer(br.readLine( ));
-			arr[ i ] = Integer.parseInt(st.nextToken( ));
-		}
-	}
+    static void inputAndSettingData() throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        K = Integer.parseInt(st.nextToken());
+        N = Integer.parseInt(st.nextToken());
+        arr = new long[N];
+        for (int i = 0; i < K; i++) {
+            arr[i] = Long.parseLong(br.readLine());
+            max = Math.max(max, arr[i]);
+        }
+    }
 }
