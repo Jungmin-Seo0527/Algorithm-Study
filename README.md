@@ -139,7 +139,7 @@
 
 ***
 
-* [BOJ1981 배열에서 이동 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ1981_배열에서_이동.java)
+* [BOJ1981 배열에서 이동 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ1981_배열에서_이동.md)
 
 <br><br>
 
