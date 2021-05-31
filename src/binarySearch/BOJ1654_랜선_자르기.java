@@ -3,7 +3,7 @@ package binarySearch;
 import java.io.*;
 import java.util.*;
 
-public class BOJ1654_랜선자르기 {
+public class BOJ1654_랜선_자르기 {
     static int N, K;
     static long[] arr;
     static long max;
