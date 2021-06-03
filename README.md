@@ -47,6 +47,7 @@
 * [BOJ1561 놀이 공원 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1561_놀이_공원.md)
 * [BOJ1654 랜선 자르기 - S3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1654_랜선_자르기.md)
 * [BOJ2916 자와 각도기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ2916_자와_각도기.md)
+* [BOJ1377 버블 소트 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1377_버블_소트.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
 
 <br><br>
@@ -61,7 +62,6 @@
 * [BOJ16954 움직이는 미로 탈출 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16954_움직이는_미로_탈출.md)
 * [BOJ2234 성곽 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2234_성곽.md)
 * [BOJ16929 Two Dots - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16929_Two_Dots.md)
-
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
@@ -93,7 +93,6 @@
 ***
 
 * [BOJ17298_오큰수 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ17298_오큰수.md)
-
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
 * [PGM 기능 개발 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_기능개발.md)
 * [PGM 프린터 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_프린터.md)
