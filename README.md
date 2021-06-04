@@ -62,6 +62,7 @@
 * [BOJ16954 움직이는 미로 탈출 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16954_움직이는_미로_탈출.md)
 * [BOJ2234 성곽 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2234_성곽.md)
 * [BOJ16929 Two Dots - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16929_Two_Dots.md)
+* [BOJ2151 거울 설치 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2151_거울_설치.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
