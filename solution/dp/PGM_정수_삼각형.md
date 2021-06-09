@@ -44,4 +44,4 @@ public class Solution {
 
 <br><br>
 
-### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/dp/PGM_정수_삼각형.md)
+### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/dp/PGM_정수_삼각형.java)
