@@ -169,6 +169,7 @@
 * [BOJ1967 트리의 지름 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/tree/BOJ1967_트리의_지름.md)
 * [BOJ1167 트리의 지름 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/tree/BOJ1167_트리의_지름.md)
 * [BOJ16947 서울 지하철 2호선 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/tree/BOJ16947_서울_지하철_2호선.md)
+* [BOJ2250 트리의 높이와 너비 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/tree/BOJ2250_트리의_높이와_너비.md)
 
 <br><br>
 
