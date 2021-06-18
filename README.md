@@ -186,6 +186,14 @@
 
 <br><br>
 
+### Math
+
+***
+
+* [CD MinAvgTwoSlice](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/math/CD_MinAvgTwoSlice.md)
+
+<br><br>
+
 ### KAKAO
 
 ***
