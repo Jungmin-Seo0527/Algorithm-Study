@@ -240,6 +240,14 @@
     * [불량 사용자 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/불량_사용자.md)
     * [징검다리 건너기 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2019/징검다리_건너기.md)
 
+### Samsung
+
+***
+
+* [BOJ21610 마법사 상어와 비바라기 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/samsung/BOJ21610_마법사_상어와_비바라기.md)
+
+<br><br>
+
 ### Contest
 
 ***
