@@ -1,4 +1,4 @@
-# [제목](https://www.acmicpc.net/problem/문제번호)
+# [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/start/)
 
 ### 난이도
 
