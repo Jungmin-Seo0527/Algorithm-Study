@@ -201,6 +201,7 @@
 * [A. Stone Game](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R725_D3/A_Stone_Game.md)
 * [B. Friends and Candies](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R725_D3/B_Friends_and_Candies.md)
 * [C. Number of Pairs](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R725_D3/C_Number_of_Pairs.md)
+* [D. Another Problem About Dividing Numbers](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R725_D3/D_Another_Problem_About_Dividing_Numbers.md)
 
 <br><br>
 
