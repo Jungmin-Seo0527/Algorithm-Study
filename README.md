@@ -193,6 +193,8 @@
 
 * [CD MinAvgTwoSlice](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/math/CD_MinAvgTwoSlice.md)
 
+<br><br>
+
 ### Codeforces
 
 ***
@@ -204,6 +206,10 @@
 * [C. Number of Pairs](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R725_D3/C_Number_of_Pairs.md)
 * [D. Another Problem About Dividing Numbers](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R725_D3/D_Another_Problem_About_Dividing_Numbers.md)
 * [F. Interesting Function](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R725_D3/F_Interesting_Function.md)
+  
+#### Round 727(Div.2)
+* [A. Contest Start](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/A_Contest_Start.md)
+
 <br><br>
 
 ### KAKAO
