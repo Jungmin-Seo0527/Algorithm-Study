@@ -150,4 +150,4 @@ public class Main {
 
 <br><br>
 
-### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/R727_D2/A_Contest_Start.java)
+### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/codeforces/R727_D2/A_Contest_Start.java)
