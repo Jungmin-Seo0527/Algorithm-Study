@@ -3,7 +3,7 @@ package greedy;
 import java.io.*;
 import java.util.*;
 
-public class BOJ1339_단어수학 {
+public class BOJ1339_단어_수학 {
     static int[] cnt = new int['Z' - 'A' + 1];
 
     public static void main(String[] args) throws IOException {
