@@ -68,6 +68,7 @@
 * [BOJ2151 거울 설치 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2151_거울_설치.md)
 * [BOJ6087 레이저 통신 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ6087_레이저_통신.md)
 * [BOJ16137 견우와 직녀 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16137_견우와_직녀.md)
+* [BOJ4575 스도미노쿠 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ4574_스도미노쿠.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
