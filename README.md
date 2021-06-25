@@ -214,6 +214,7 @@
 * [A. Contest Start](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/A_Contest_Start.md)
 * [B. Love Song](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/B_Love_Song.md)
 * [C. Stable Groups](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/C_Stable_Groups.md)
+* [D. PriceFixed](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/D_PriceFixed.md)
 
 <br><br>
 
