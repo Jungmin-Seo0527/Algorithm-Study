@@ -69,6 +69,7 @@
 * [BOJ6087 레이저 통신 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ6087_레이저_통신.md)
 * [BOJ16137 견우와 직녀 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16137_견우와_직녀.md)
 * [BOJ4575 스도미노쿠 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ4574_스도미노쿠.md)
+* [BOJ2933 미네랄 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2933_미네랄.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
@@ -215,6 +216,10 @@
 * [B. Love Song](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/B_Love_Song.md)
 * [C. Stable Groups](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/C_Stable_Groups.md)
 * [D. PriceFixed](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/D_PriceFixed.md)
+
+#### ROUND 728(Div.2)
+
+* [A. Pretty Permutations](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R728_D2/A_Pretty_Permutation.md)
 
 <br><br>
 
