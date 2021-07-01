@@ -139,4 +139,4 @@ public class Main {
 
 <br><br>
 
-### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/codeforces/R728_D2.java)
+### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/codeforces/R728_D2/B_pleasant_Pairs.java)
