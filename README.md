@@ -220,6 +220,7 @@
 #### ROUND 728(Div.2)
 
 * [A. Pretty Permutations](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R728_D2/A_Pretty_Permutation.md)
+* [B. Pleasant Pairs](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R728_D2/B_pleasant_Pairs.md)
 
 <br><br>
 
