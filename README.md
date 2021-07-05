@@ -217,11 +217,15 @@
 * [C. Stable Groups](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/C_Stable_Groups.md)
 * [D. PriceFixed](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R727_D2/D_PriceFixed.md)
 
-#### ROUND 728(Div.2)
+#### Round 728(Div.2)
 
 * [A. Pretty Permutations](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R728_D2/A_Pretty_Permutation.md)
 * [B. Pleasant Pairs](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R728_D2/B_pleasant_Pairs.md)
 * [C. Great Graphs](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R728_D2/C_Great_Graphs.md)
+
+#### Round 729(Div.2)
+
+* [A. Odd Set](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R729_D2/A_Odd_Set.md)
 
 <br><br>
 
