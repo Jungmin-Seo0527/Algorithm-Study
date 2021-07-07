@@ -229,6 +229,7 @@
 
 * [A. Odd Set](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R729_D2/A_Odd_Set.md)
 * [B. Plus and Multiply](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R729_D2/B_Plus_and_Multiply.md)
+* [C. Strange Function](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R729_D2/C_Strange_Function.md)
 
 <br><br>
 
