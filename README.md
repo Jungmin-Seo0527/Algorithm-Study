@@ -106,7 +106,8 @@
 
 ***
 
-* [BOJ17298_오큰수 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ17298_오큰수.md)
+* [BOJ17298 오큰수 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ17298_오큰수.md)
+* [BOJ9935 문자열 폭발 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ9935_문자열_폭발.md)
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
 * [PGM 기능 개발 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_기능개발.md)
 * [PGM 프린터 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_프린터.md)
