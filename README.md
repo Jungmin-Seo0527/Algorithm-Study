@@ -239,6 +239,7 @@
 #### Round 730(Div.2)
 
 * [A. Exciting Bets](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/A_Exciting_Bets.md)
+* [B. Customising the Track](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/B_Customising_the_Track.md)
 
 <br><br>
 
