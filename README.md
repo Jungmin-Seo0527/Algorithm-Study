@@ -110,6 +110,7 @@
 * [BOJ9935 문자열 폭발 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ9935_문자열_폭발.md)
 * [BOJ5430 AC - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ5430_AC.md)
 * [BOJ1918 후위 표기식 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1918_후위_표기식.md)
+* [BOJ1717 집합의 표현 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1717_집합의_표현.md)
 
 
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
