@@ -144,6 +144,7 @@
 * [BOJ11779 최소비용 구하기2 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ11779_최소비용_구하기2.md)
 * [BOJ2665 미로만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ2665_미로만들기.md)
 * [BOJ10282 해킹 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ10282_해킹.md)
+* [BOJ1916 최소 비용 구하기 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1916_최소비용_구하기.md)
 
 <br><br>
 
