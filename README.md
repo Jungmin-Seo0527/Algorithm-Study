@@ -113,6 +113,7 @@
 * [BOJ1717 집합의 표현 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1717_집합의_표현.md)
 * [BOJ1976 여행 가자 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1976_여행_가자.md)
 * [BOJ17299 오등큰수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ17299_오등큰수.md)
+* [BOJ1406 에디터 - S3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1406_에디터.md)
 
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
 * [PGM 기능 개발 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_기능개발.md)
