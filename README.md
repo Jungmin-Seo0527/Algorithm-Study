@@ -112,7 +112,7 @@
 * [BOJ1918 후위 표기식 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1918_후위_표기식.md)
 * [BOJ1717 집합의 표현 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1717_집합의_표현.md)
 * [BOJ1976 여행 가자 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1976_여행_가자.md)
-
+* [BOJ17299 오등큰수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ17299_오등큰수.md)
 
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
 * [PGM 기능 개발 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_기능개발.md)
@@ -241,7 +241,7 @@
 #### Round 730(Div.2)
 
 * [A. Exciting Bets](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/A_Exciting_Bets.md)
-* [B. Customising the Track](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/B_Customising_the_Track.md)
+* [B. Customising the Track](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/B_Customising_the_Track.md)QQ
 
 <br><br>
 
