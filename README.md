@@ -243,7 +243,10 @@
 #### Round 730(Div.2)
 
 * [A. Exciting Bets](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/A_Exciting_Bets.md)
-* [B. Customising the Track](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/B_Customising_the_Track.md)QQ
+* [B. Customising the Track](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/B_Customising_the_Track.md)
+
+#### Round 731(Div.3)
+* [A. Shortest Path with Obstacle](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/A_Shortest_Path_with_Obstacle.md)
 
 <br><br>
 
