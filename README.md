@@ -249,6 +249,7 @@
 #### Round 731(Div.3)
 * [A. Shortest Path with Obstacle](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/A_Shortest_Path_with_Obstacle.md)
 * [B. Alphabetical Strings](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/B_Alphabetical_Strings.md)
+* [C. Pair Programming](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/C_Pair_Programming.md)
 
 <br><br>
 
