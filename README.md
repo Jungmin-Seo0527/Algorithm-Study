@@ -72,8 +72,8 @@
 * [BOJ16137 견우와 직녀 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16137_견우와_직녀.md)
 * [BOJ4575 스도미노쿠 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ4574_스도미노쿠.md)
 * [BOJ2933 미네랄 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2933_미네랄.md)
-* [BOJ2146 다리 만들기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2146_다리_만들기.md)  
-
+* [BOJ2146 다리 만들기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2146_다리_만들기.md)
+* [BOJ16932 모양 만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16932_모양_만들기.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
@@ -249,6 +249,7 @@
 * [B. Customising the Track](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R730_D2/B_Customising_the_Track.md)
 
 #### Round 731(Div.3)
+
 * [A. Shortest Path with Obstacle](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/A_Shortest_Path_with_Obstacle.md)
 * [B. Alphabetical Strings](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/B_Alphabetical_Strings.md)
 * [C. Pair Programming](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/C_Pair_Programming.md)
