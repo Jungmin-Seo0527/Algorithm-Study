@@ -72,6 +72,8 @@
 * [BOJ16137 견우와 직녀 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16137_견우와_직녀.md)
 * [BOJ4575 스도미노쿠 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ4574_스도미노쿠.md)
 * [BOJ2933 미네랄 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2933_미네랄.md)
+* [BOJ2146 다리 만들기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2146_다리_만들기.md)  
+
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
