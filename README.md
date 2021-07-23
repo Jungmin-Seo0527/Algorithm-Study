@@ -258,6 +258,7 @@
 #### Round 732(Div.2)
 * [A. AquaMoon and Two Arrays](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R732_D2/A_AquaMoon_and_Two_Arrays.md)
 * [B. AquaMoon and Stolen String](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R732_D2/B_AquaMoon_ans_Stolen_String.md)
+* [C. AquaMoon and Strange Sort](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R732_D2/C_AquaMoon_and_Strange_Sort.md)
 
 <br><br>
 
