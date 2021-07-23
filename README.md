@@ -255,6 +255,9 @@
 * [B. Alphabetical Strings](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/B_Alphabetical_Strings.md)
 * [C. Pair Programming](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/C_Pair_Programming.md)
 
+#### Round 732(Div.2)
+* [B. AquaMoon and Stolen String](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R732_D2/B_AquaMoon_ans_Stolen_String.md)
+
 <br><br>
 
 ### KAKAO
