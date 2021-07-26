@@ -262,6 +262,7 @@
 
 #### Round 734(Div.3)
 * [B2. Wonderful Coloring - 2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/B2_Wonderful_Coloring_2.md)
+* [C. Interesting Story](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/C_Interesting_Story.md)
 
 <br><br>
 
