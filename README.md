@@ -158,6 +158,7 @@
 ***
 
 * [BOJ1197 최소 스패닝 트리 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1197_최소_스패닝_트리.md)
+* [BOJ1647 도시 분할 계획 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1647_도시_분할_계획.md)
 
 <br><br>
 
@@ -256,11 +257,13 @@
 * [C. Pair Programming](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R731_D3/C_Pair_Programming.md)
 
 #### Round 732(Div.2)
+
 * [A. AquaMoon and Two Arrays](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R732_D2/A_AquaMoon_and_Two_Arrays.md)
 * [B. AquaMoon and Stolen String](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R732_D2/B_AquaMoon_ans_Stolen_String.md)
 * [C. AquaMoon and Strange Sort](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R732_D2/C_AquaMoon_and_Strange_Sort.md)
 
 #### Round 734(Div.3)
+
 * [B2. Wonderful Coloring - 2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/B2_Wonderful_Coloring_2.md)
 * [C. Interesting Story](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/C_Interesting_Story.md)
 
