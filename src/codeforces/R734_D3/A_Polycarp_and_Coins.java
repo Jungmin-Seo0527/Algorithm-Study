@@ -1,8 +1,9 @@
+package codeforces.R734_D3;
 
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class A_Polycarp_and_Coins {
 
     static String solve(int n) {
         int moc = n / 3;
