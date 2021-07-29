@@ -265,6 +265,7 @@
 
 #### Round 734(Div.3)
 * [A. Polycarp and Coins](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/A_Polycarp_and_Coins.md)
+* [B1. Wonderful Coloring - 1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/B1_Wonderful_Coloring_1.md)
 * [B2. Wonderful Coloring - 2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/B2_Wonderful_Coloring_2.md)
 * [C. Interesting Story](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/codeforces/R734_D3/C_Interesting_Story.md)
 
