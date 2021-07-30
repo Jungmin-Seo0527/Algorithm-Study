@@ -203,6 +203,7 @@
 
 ***
 
+* [BOJ10800 컬러볼 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/prefixSum/BOJ10800_컬러볼.md)
 * [CD GenomicRangeQuery](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/prefixSum/CD_GenomicRangeQuery.md)
 
 <br><br>
