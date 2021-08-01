@@ -92,6 +92,7 @@
 * [BOJ1309 동물원 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ1309_동물원.md)
 * [BOJ2133 타일 채우기 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ2133_타일_채우기.md)
 * [BOJ4811 알약 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ4811_알약.md)
+* [BOJ14852 타일 채우기3 - S1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/BOJ14852_타일_채우기3.md)
 * [PGM N으로 표현 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/PGM_N으로_표현.md)
 * [PGM 정수 삼각형 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dp/PGM_정수_삼각형.md)
 
