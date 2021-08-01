@@ -38,6 +38,7 @@
 * [BOJ4902 삼각형의 값 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ4902_삼각형의_값.md)
 * [BOJ16637 괄호 추가하기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ16637_괄호_추가하기.md)
 * [BOJ16638 괄호 추가하기 2 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ16638_괄호_추가하기_2.md)
+* [BOJ18808 스티커 붙이기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ18808_스티커_붙이기.md)
 
 <br><br>
 
