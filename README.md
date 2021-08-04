@@ -138,6 +138,7 @@
 ***
 
 * [BOJ1022 소용돌이 예쁘게 만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ1022_소용돌이_예쁘게_만들기.md)
+* [BOJ2931 가스관 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ2931_가스관.md)
 
 <br><br>
 
