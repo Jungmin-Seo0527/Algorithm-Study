@@ -54,6 +54,7 @@
 * [BOJ1654 랜선 자르기 - S3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1654_랜선_자르기.md)
 * [BOJ2916 자와 각도기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ2916_자와_각도기.md)
 * [BOJ1377 버블 소트 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ1377_버블_소트.md)
+* [BOJ16434 드래곤 앤 던전 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ16434_드래곤_앤_던전.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
 
 <br><br>
