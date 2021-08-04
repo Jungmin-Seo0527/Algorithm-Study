@@ -107,6 +107,7 @@
 * [BOJ1202 보석도둑 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ1202_보석_도둑.md)
 * [BOJ1285 동전 뒤집기 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ1285_동전_뒤집기.md)
 * [BOJ1339 단어 수학 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ1339_단어_수학.md)
+* [BOJ2212 센서 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2212_센서.md)
 
 <br><br>
 
