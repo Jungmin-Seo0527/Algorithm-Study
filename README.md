@@ -77,6 +77,7 @@
 * [BOJ16932 모양 만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16932_모양_만들기.md)
 * [BOJ9376 탈옥 - P5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ9376_탈옥.md)
 * [BOJ14867 물통 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ14867_물통.md)
+* [BOJ16985 Maaaaaaaaaze - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16985_Maaaaaaaaaze.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
