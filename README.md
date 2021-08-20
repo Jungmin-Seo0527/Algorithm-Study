@@ -79,6 +79,7 @@
 * [BOJ9376 탈옥 - P5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ9376_탈옥.md)
 * [BOJ14867 물통 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ14867_물통.md)
 * [BOJ16985 Maaaaaaaaaze - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16985_Maaaaaaaaaze.md)
+* [BOJ2573 빙산 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2573_빙산.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
