@@ -177,6 +177,7 @@
 
 * [BOJ1197 최소 스패닝 트리 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1197_최소_스패닝_트리.md)
 * [BOJ1647 도시 분할 계획 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1647_도시_분할_계획.md)
+* [BOJ4386 별자리 만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ4386_별자리_만들기.md)
 
 <br><br>
 
