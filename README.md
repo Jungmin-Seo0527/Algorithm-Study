@@ -341,6 +341,10 @@
     * [셔틀버스 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/셔틀버스.md)
     * [자동완성 - L4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2018/자동완성.md)
 
+* #### 2021 KAKAO INTERNSHIP
+
+    * [숫자 문자열과 영단어 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2021/숫자_문자열과_영단어.md)
+
 * #### 2020 KAKAO INTERNSHIP
     * [키패드 누르기 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/키패드_누르기.md)
     * [수식 최대화 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/internship2020/수식_최대화.md)
