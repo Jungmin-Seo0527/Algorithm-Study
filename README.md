@@ -228,6 +228,7 @@
 * [BOJ1451 직사각형으로_나누기 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/prefixSum/BOJ1451_직사각형으로_나누기.md)
 * [BOJ16973 직사각형 탈출 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/prefixSum/BOJ16973_직사각형_탈출.md)
 * [BOJ5549 행성 탐사 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/prefixSum/BOJ5549_행성_탐사.md)
+* [BOJ10986 나머지 합 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/prefixSum/BOJ10986_나머지_합.md)
 * [CD GenomicRangeQuery](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/prefixSum/CD_GenomicRangeQuery.md)
 
 <br><br>
