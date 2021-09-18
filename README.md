@@ -234,6 +234,13 @@
 
 <br><br>
 
+### Disjoint Set
+
+* [BOJ1043 거짓말 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/disjointSet/BOJ1043_거짓말.md)
+
+<br><br>
+
+
 ### Math
 
 ***
