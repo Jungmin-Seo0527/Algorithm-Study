@@ -81,6 +81,7 @@
 * [BOJ16985 Maaaaaaaaaze - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16985_Maaaaaaaaaze.md)
 * [BOJ2573 빙산 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2573_빙산.md)
 * [BOJ11967 불켜기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ11967_불켜기.md)
+* [BOJ16920 확장 게임 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16920_확장_게임.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
