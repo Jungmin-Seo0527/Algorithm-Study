@@ -57,6 +57,7 @@
 * [BOJ16434 드래곤 앤 던전 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ16434_드래곤_앤_던전.md)
 * *[BOJ2550 전구 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ2550_전구.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
+* [PGM 금과 은 운반하기 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_금과_은_운반하기.md)
 
 <br><br>
 
@@ -132,7 +133,7 @@
 * [BOJ17299 오등큰수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ17299_오등큰수.md)
 * [BOJ1406 에디터 - S3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ1406_에디터.md)
 * [BOJ7662 이중 우선순위 큐](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ7662_이중_우선순위_큐.md)
-* [BOJ10799 - S3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ10799_쇠막대기.md)
+* [BOJ10799 쇠막대기 - S3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ10799_쇠막대기.md)
 * [BOJ16120 PPAP - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ16120_PPAP.md)
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
 * [PGM 기능 개발 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_기능개발.md)
@@ -244,7 +245,6 @@
 * [BOJ1043 거짓말 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/disjointSet/BOJ1043_거짓말.md)
 
 <br><br>
-
 
 ### Math
 
