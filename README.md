@@ -85,6 +85,7 @@
 * [BOJ16920 확장 게임 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16920_확장_게임.md)
 * [BOJ16959 체스판 여행 1 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16959_체스판_여행_1.md)
 * [BOJ18513 샘터 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ18513_샘터.md)
+* [BOJ18809 Gaaaaaaaaaarden - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ18809_Gaaaaaaaaaarden.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
