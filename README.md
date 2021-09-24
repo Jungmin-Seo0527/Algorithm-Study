@@ -151,6 +151,7 @@
 * [BOJ1022 소용돌이 예쁘게 만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ1022_소용돌이_예쁘게_만들기.md)
 * [BOJ2931 가스관 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ2931_가스관.md)
 * [BOJ3425 고스택 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ3425_고스택.md)
+* [BOJ14719 빗물 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ14719_빗물.md)
 
 <br><br>
 
