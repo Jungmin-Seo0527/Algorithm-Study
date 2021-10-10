@@ -39,7 +39,7 @@
 * [BOJ16637 괄호 추가하기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ16637_괄호_추가하기.md)
 * [BOJ16638 괄호 추가하기 2 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ16638_괄호_추가하기_2.md)
 * [BOJ18808 스티커 붙이기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ18808_스티커_붙이기.md)
-
+* [BOJ20164 홀수 홀릭 호석 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ20164_홀수_홀릭_호석.md)
 <br><br>
 
 ### Binary Search
