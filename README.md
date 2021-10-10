@@ -6,7 +6,7 @@
 
 * 이전에 남겼던 문제 풀이 설명은 **commit message 혹은 코드 상에 주석**으로 남겨두었음을 참고(비교적 최근에 풀었던 문제들은 주석으로 남겨둠)
 * 최근의 문제들은 마크다운 문서로 정리해서 저장
-* commit message 나 주석으로 문제 풀이를 남긴 문제들을 복습차원으로 다시 풀면서 마크다운 문서로 정리하는 작업 진행중(그렇게 400문제가 남았는데...)
+* commit message 나 주석으로 문제 풀이를 남긴 문제들을 복습차원으로 다시 풀면서 마크다운 문서로 정리하는 작업 진행중
 
 
 * 대부분은 백준에서 푼 문제들이며 문서로 남길 문제들은 되도록이면 골드 이상의 난이도 위주로 남길 예정(+실버라도 다시 한번 볼만하다고 생각되는 문제들, +프로그래머스 문제, +Codility 문제)
@@ -40,6 +40,8 @@
 * [BOJ16638 괄호 추가하기 2 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ16638_괄호_추가하기_2.md)
 * [BOJ18808 스티커 붙이기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ18808_스티커_붙이기.md)
 * [BOJ20164 홀수 홀릭 호석 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ20164_홀수_홀릭_호석.md)
+* [BOJ17136 색종이 붙이기 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/bruteForce/BOJ17136_색종이_붙이기.md)
+
 <br><br>
 
 ### Binary Search
