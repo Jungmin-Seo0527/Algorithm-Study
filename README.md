@@ -59,6 +59,7 @@
 * [BOJ16434 드래곤 앤 던전 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ16434_드래곤_앤_던전.md)
 * [BOJ2550 전구 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ2550_전구.md)
 * [BOJ3050 집들이 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ3050_집들이.md)
+* [BOJ22254 공정 컨설턴스 호석 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ22254_공정_컨설턴트_호석.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
 * [PGM 금과 은 운반하기 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_금과_은_운반하기.md)
 
