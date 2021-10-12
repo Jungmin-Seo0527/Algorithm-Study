@@ -159,6 +159,7 @@
 * [BOJ3425 고스택 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ3425_고스택.md)
 * [BOJ14719 빗물 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ14719_빗물.md)
 * [BOJ20165 인내의 도미노 장인 호석 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ20165_인내의_도미노_장인_호석.md)
+* [BOJ16927 배열 돌리기 2 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ16927_배열_돌리기_2.md)
 
 <br><br>
 
