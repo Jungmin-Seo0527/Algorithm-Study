@@ -95,6 +95,7 @@
 * [BOJ3197 백조의_호수 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ3197_백조의_호수.md)
 * [BOJ1938 통나무 옮기기 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ1938_통나무_옮기기.md)
 * [BOJ1103 게임 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ1103_게임.md)
+* [BOJ17090 미로 탈출하기 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ17090_미로_탈출하기.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
