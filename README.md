@@ -268,6 +268,14 @@
 
 <br><br>
 
+### PGM - Weekly Challenge
+
+***
+
+* [10주차 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/PGM_WeeklyChallenge/week10.md)
+
+<br><br>
+
 ### Codeforces
 
 ***
