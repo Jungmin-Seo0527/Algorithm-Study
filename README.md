@@ -167,6 +167,7 @@
 * [BOJ17470 배열 돌리기 5 - P5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ17470_배열_돌리기_5.md)
 * [BOJ17472 다리 만들기 2 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ17472_다리_만들기_2.md)
 * [BOJ10253 헨리 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ10253_헨리.md)
+* [BOJ1111 IQ Test - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ1111_IQ_Test.md)
 
 <br><br>
 
