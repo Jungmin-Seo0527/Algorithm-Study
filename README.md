@@ -193,6 +193,7 @@
 * [BOJ2665 미로만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ2665_미로만들기.md)
 * [BOJ10282 해킹 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ10282_해킹.md)
 * [BOJ1916 최소 비용 구하기 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1916_최소비용_구하기.md)
+* [BOJ15730 수영장 사장님 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ15730_수영장_사장님.md)
 
 <br><br>
 
