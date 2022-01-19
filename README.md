@@ -217,6 +217,7 @@
 * [BOJ1981 배열에서 이동 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ1981_배열에서_이동.md)
 * [BOJ2842 집배원 한상덕 - P5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ2842_집배원_한상덕.md)
 * [BOJ1253 좋다 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ1253_좋다.md)
+* [BOJ9007 카누 선수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ9007_카누_선수.md)
 
 <br><br>
 
