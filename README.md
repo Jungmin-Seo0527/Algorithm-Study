@@ -218,6 +218,7 @@
 * [BOJ2842 집배원 한상덕 - P5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ2842_집배원_한상덕.md)
 * [BOJ1253 좋다 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ1253_좋다.md)
 * [BOJ9007 카누 선수 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ9007_카누_선수.md)
+* [BOJ7453 합이 0인 네 정수 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/twoPointer/BOJ7452_합이_0인_네_정수.md)
 
 <br><br>
 
