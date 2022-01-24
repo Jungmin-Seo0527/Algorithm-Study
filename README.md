@@ -412,6 +412,7 @@
 
 ***
 
+* [BOJ13460 구슬 탈출 2 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/samsung/BOJ13460_구슬_탈출_2.md)
 * [BOJ21610 마법사 상어와 비바라기 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/samsung/BOJ21610_마법사_상어와_비바라기.md)
 * [BOJ21611 마법사 상어와 블리자드 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/samsung/BOJ21611_마법사_상어와_블리자드.md)
 * [BOJ21608 상어 초등학교 - S5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/samsung/BOJ21608_상어_초등학교.md)
