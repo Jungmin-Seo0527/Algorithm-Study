@@ -4,61 +4,80 @@ import java.io.*;
 import java.util.*;
 
 public class BOJ13911_집_구하기 {
-    static int V, E, M, S, x, y;
-    static int[] distM, distS;
-    static List<List<Node>> adjList = new ArrayList<>();
 
-    public static void main(String[] args) throws IOException {
-        inputAndSettingData();
-        solve();
-    }
+    static int V, E, M, x, S, y;
+    static List<List<Node>> adjList;
+    static List<Integer> mac, star;
 
     static void solve() {
-        int ans = Integer.MAX_VALUE;
-        dijkstra(distS);
-        dijkstra(distM);
+        long[] distMac = dijkstra(mac);
+        long[] distStar = dijkstra(star);
+
+        Long min = Long.MAX_VALUE;
         for (int i = 1; i <= V; i++) {
-            int dm = distM[i];
-            int ds = distS[i];
-            if (dm != 0 && ds != 0 && dm <= x && ds <= y) {
-                ans = Math.min(ans, dm + ds);
+            if (distMac[i] > 0 && distMac[i] <= x && distStar[i] > 0 && distStar[i] <= y) {
+                min = Math.min(min, distMac[i] + distStar[i]);
             }
         }
-        if (ans == Integer.MAX_VALUE) ans = -1;
-        System.out.println(ans);
+        if (min == Long.MAX_VALUE) min = (long)-1;
+        System.out.println(min);
     }
 
-    static void dijkstra(int[] dist) {
-        PriorityQueue<Node> que = new PriorityQueue<>((n1, n2) -> Integer.compare(n1.weight, n2.weight));
-        for (int i = 1; i <= V; i++) {
-            if (dist[i] == 0) {
-                que.add(new Node(i, 0));
-            }
+    static long[] dijkstra(List<Integer> list) {
+        PriorityQueue<Node> que = new PriorityQueue<>();
+        long[] dist = new long[V + 1];
+        boolean[] visited = new boolean[V + 1];
+        Arrays.fill(dist, Long.MAX_VALUE);
+        for (int i = 0; i < list.size(); i++) {
+            dist[list.get(i)] = 0;
+            que.add(new Node(list.get(i), 0));
         }
+
         while (!que.isEmpty()) {
             Node cur = que.poll();
-            adjList.get(cur.vertex).forEach(next -> {
-                if (dist[next.vertex] > dist[cur.vertex] + next.weight) {
-                    dist[next.vertex] = dist[cur.vertex] + next.weight;
-                    que.add(new Node(next.vertex, dist[next.vertex]));
+
+            if (visited[cur.v]) continue;
+            visited[cur.v] = true;
+
+            for (int i = 0; i < adjList.get(cur.v).size(); i++) {
+                Node next = adjList.get(cur.v).get(i);
+
+                if (!visited[next.v] && dist[next.v] > dist[cur.v] + next.w) {
+                    dist[next.v] = dist[cur.v] + next.w;
+                    que.add(new Node(next.v, dist[next.v]));
                 }
-            });
+            }
+        }
+
+        return dist;
+    }
+
+    static class Node implements Comparable<Node> {
+        int v;
+        long w;
+
+        public Node(int v, long w) {
+            this.v = v;
+            this.w = w;
+        }
+
+        @Override
+        public int compareTo(Node o) {
+            return Long.compare(this.w, o.w);
         }
     }
 
-    static void inputAndSettingData() throws IOException {
+
+    public static void main(String[] args) throws IOException {
+        // BufferedReader br = getBufferedReader();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         V = Integer.parseInt(st.nextToken());
         E = Integer.parseInt(st.nextToken());
+        adjList = new ArrayList<>(V + 1);
         for (int i = 0; i <= V; i++) {
             adjList.add(new ArrayList<>());
         }
-        distM = new int[V + 1];
-        distS = new int[V + 1];
-        Arrays.fill(distM, Integer.MAX_VALUE);
-        Arrays.fill(distS, Integer.MAX_VALUE);
-
         for (int i = 0; i < E; i++) {
             st = new StringTokenizer(br.readLine());
             int u = Integer.parseInt(st.nextToken());
@@ -67,39 +86,37 @@ public class BOJ13911_집_구하기 {
             adjList.get(u).add(new Node(v, w));
             adjList.get(v).add(new Node(u, w));
         }
+
         st = new StringTokenizer(br.readLine());
         M = Integer.parseInt(st.nextToken());
         x = Integer.parseInt(st.nextToken());
+        mac = new ArrayList<>(M);
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < M; i++) {
-            int m = Integer.parseInt(st.nextToken());
-            distM[m] = 0;
+            mac.add(Integer.parseInt(st.nextToken()));
         }
+
         st = new StringTokenizer(br.readLine());
         S = Integer.parseInt(st.nextToken());
         y = Integer.parseInt(st.nextToken());
+        star = new ArrayList<>(S);
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < S; i++) {
-            int s = Integer.parseInt(st.nextToken());
-            distS[s] = 0;
+            star.add(Integer.parseInt(st.nextToken()));
         }
+        solve();
     }
 
-    static class Node {
-        int vertex, weight;
-
-        public Node(int vertex, int weight) {
-            this.vertex = vertex;
-            this.weight = weight;
+    private static BufferedReader getBufferedReader() throws IOException {
+        System.out.println("===== input =====");
+        String fileName = "input/input1.txt";
+        BufferedReader br = new BufferedReader(new FileReader(fileName));
+        BufferedReader br2 = new BufferedReader(new FileReader(fileName));
+        String s;
+        while ((s = br2.readLine()) != null) {
+            System.out.println(s);
         }
-
-        @Override
-        public String toString() {
-            return "Node{" +
-                    "vertex=" + vertex +
-                    ", weight=" + weight +
-                    '}';
-        }
+        System.out.println("===== output =====");
+        return br;
     }
-
 }
