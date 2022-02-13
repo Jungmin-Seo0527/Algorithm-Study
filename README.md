@@ -198,6 +198,7 @@
 * [BOJ15730 수영장 사장님 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ15730_수영장_사장님.md)
 * [BOJ9370 미확인 도착지 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ9370_미확인_도착지.md)
 * [BOJ2211 네트워크 복구 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ2211_네트워크_복구.md)
+* [BOJ10217 KCM Travel - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ10217_KCM_Travel.md)
 
 <br><br>
 
