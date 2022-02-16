@@ -99,6 +99,7 @@
 * [BOJ16986 인싸들의 가위바위보 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ16986_인싸들의_가위바위보.md)
 * [BOJ12919 A와 B 2 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12919_A와_B_2.md)
 * [BOJ2636 치즈 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2636_치즈.md)
+* [BOJ2638 치즈 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2638_치즈.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
