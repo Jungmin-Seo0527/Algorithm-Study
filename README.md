@@ -357,6 +357,9 @@
 
 ***
 
+* #### 2022 KAKAO BLIND RECRUITMENT
+  * [신고 결과 받기 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2022/신고_결과_받기.md)
+
 * #### 2021 KAKAO BLIND RECRUITMENT
     * [신규 아이디 추천 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/신규_아이디_추천.md)
     * [메뉴 리뉴얼 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/메뉴_리뉴얼.md)
