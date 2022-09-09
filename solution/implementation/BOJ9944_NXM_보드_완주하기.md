@@ -85,4 +85,4 @@ public class Main {
 
 <br><br>
 
-### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/implementation/BOJ9944_NXM_보드_완주하기.md)
+### [전체 코드](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/src/implementation/BOJ9944_NXM_보드_완주하기.java)
