@@ -175,6 +175,7 @@
 * [BOJ10253 헨리 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ10253_헨리.md)
 * [BOJ1111 IQ Test - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ1111_IQ_Test.md)
 * [BOJ9944 NXM 보드 완주하기 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ9944_NXM_보드_완주하기.md)
+* [BOJ2450 모양 정돈 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ2450_모양_정돈.md)
 
 <br><br>
 
