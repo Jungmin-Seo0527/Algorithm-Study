@@ -100,6 +100,7 @@
 * [BOJ12919 A와 B 2 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ12919_A와_B_2.md)
 * [BOJ2636 치즈 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2636_치즈.md)
 * [BOJ2638 치즈 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2638_치즈.md)
+* [BOJ18405 경쟁적 ㅇ전염 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ18405_경쟁적_전염.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
@@ -132,7 +133,7 @@
 * [BOJ2212 센서 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2212_센서.md)
 * [BOJ2457 공주님의 정원 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2457_공주님의_정원.md)
 * [BOJ2141 우체국 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2141_우체국.md)
-* [BOJ2876 코딩은 예쁘게 -  G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2876_코딩은_예쁘게.md)
+* [BOJ2876 코딩은 예쁘게 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2876_코딩은_예쁘게.md)
 
 <br><br>
 
@@ -362,8 +363,8 @@
 ***
 
 * #### 2022 KAKAO BLIND RECRUITMENT
-  * [신고 결과 받기 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2022/신고_결과_받기.md)
-  * [k진수에서 소수 개수 구하기 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2022/k진수에서_소수_개수_구하기.md)
+    * [신고 결과 받기 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2022/신고_결과_받기.md)
+    * [k진수에서 소수 개수 구하기 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2022/k진수에서_소수_개수_구하기.md)
 
 * #### 2021 KAKAO BLIND RECRUITMENT
     * [신규 아이디 추천 - L1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/kakao/recruit2021/신규_아이디_추천.md)
