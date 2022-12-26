@@ -208,6 +208,7 @@
 * [BOJ9370 미확인 도착지 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ9370_미확인_도착지.md)
 * [BOJ2211 네트워크 복구 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ2211_네트워크_복구.md)
 * [BOJ10217 KCM Travel - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ10217_KCM_Travel.md)
+* [BOJ9694 무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ9694_무엇을_아느냐가_아니라_누구를_아느냐가_문제다.md)
 
 <br><br>
 
