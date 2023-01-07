@@ -103,6 +103,7 @@
 * [BOJ2638 치즈 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ2638_치즈.md)
 * [BOJ18405 경쟁적 전염 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ18405_경쟁적_전염.md)
 * [BOJ20005 보스몬스터 전리품 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ20005_보스몬스터_전리품.md)
+* [BOJ15898 피아의 아틀리에 ~신비한 대회의 연금술사~](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ15898_피아의_아틀리에_신비한_대회의_연금술사.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
