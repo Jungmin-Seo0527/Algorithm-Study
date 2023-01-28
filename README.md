@@ -61,6 +61,7 @@
 * [BOJ3050 집들이 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ3050_집들이.md)
 * [BOJ22254 공정 컨설턴스 호석 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ22254_공정_컨설턴트_호석.md)
 * [BOJ3066 브리징 시그널 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ3066_브리징_시그널.md)
+* [BOJ2539 모자이크 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/BOJ2539_모자이크.md)
 * [PGM H-Index - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_H_Index.md)
 * [PGM 금과 은 운반하기 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/binarySearch/PGM_금과_은_운반하기.md)
 
