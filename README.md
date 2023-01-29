@@ -157,6 +157,7 @@
 * [BOJ7662 이중 우선순위 큐](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ7662_이중_우선순위_큐.md)
 * [BOJ10799 쇠막대기 - S3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ10799_쇠막대기.md)
 * [BOJ16120 PPAP - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ16120_PPAP.md)
+* [BOJ13904 과제 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/BOJ13904_과제.md)
 * [PGM 다리를 지나는 트럭 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_다리를_지나는_트럭.md)
 * [PGM 기능 개발 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_기능개발.md)
 * [PGM 프린터 - L2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ds/PGM_프린터.md)
