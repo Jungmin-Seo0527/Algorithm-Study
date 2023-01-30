@@ -140,6 +140,7 @@
 * [BOJ2141 우체국 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2141_우체국.md)
 * [BOJ2876 코딩은 예쁘게 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ2876_코딩은_예쁘게.md)
 * [BOJ3109 빵집 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ3109_빵집.md)
+* [BOJ1826 연료 채우기 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/greedy/BOJ1826_연료_채우기.md)
 
 <br><br>
 
