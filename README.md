@@ -188,6 +188,7 @@
 * [BOJ2450 모양 정돈 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ2450_모양_정돈.md)
 * [BOJ8972 미친 아두이노 -  G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ8972_미친_아두이노.md)
 * [BOJ18500 미네랄 2 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ18500_미네랄_2.md)
+* [BOJ1917 정육면체 전개도 - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/implementation/BOJ1917_정육면체_전개도.md)
 
 <br><br>
 
