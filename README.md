@@ -233,6 +233,7 @@
 * [BOJ1647 도시 분할 계획 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1647_도시_분할_계획.md)
 * [BOJ4386 별자리 만들기 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ4386_별자리_만들기.md)
 * [BOJ1944 복제 로봇 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1944_복제_로봇.md)
+* [BOJ1922 네트워크 연결 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/mst/BOJ1922_네트워크_연결.md)
 
 <br><br>
 
