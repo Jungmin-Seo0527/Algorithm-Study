@@ -303,6 +303,7 @@
 ***
 
 * [BOJ2166 다각형의 면적](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/math/BOJ2166_다각형의_면적.md)
+* [BOJ2877 4와7](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/math/BOJ2877_4와7.md)
 * [CD MinAvgTwoSlice](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/math/CD_MinAvgTwoSlice.md)
 
 <br><br>
