@@ -110,6 +110,7 @@
 * [BOJ6593 상범 빌딩 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ6593_상범_빌딩.md)
 * [BOJ17141 연구소2 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ17141_연구소2.md)
 * [BOJ5427 불 -  G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ5427_불.md)
+* [BOJ1726 로봇 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/BOJ1726_로봇.md)
 * [PGM 가장 먼 노드 - L3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dfs_bfs/PGM_가장_먼_노드.md)
 
 <br><br>
