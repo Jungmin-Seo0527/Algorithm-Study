@@ -228,6 +228,9 @@
 * [BOJ10217 KCM Travel - G1](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ10217_KCM_Travel.md)
 * [BOJ9694 무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ9694_무엇을_아느냐가_아니라_누구를_아느냐가_문제다.md)
 * [BOJ1445 일요일 아침의 데이트 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ1445_일요일_아침의_데이트.md)
+* [BOJ20182 골목 대장 호석 - 효율성1 - G3](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ20183_골목_대장_호석_효율성2.md)
+* [BOJ20168 골목 대장 호석 - 기능성 - G5](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ20183_골목_대장_호석_효율성2.md)
+* [BOJ20183 골목 대장 호석 - 효율성2 - G2](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/dijkstra/BOJ20183_골목_대장_호석_효율성2.md)
 
 <br><br>
 
