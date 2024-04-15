@@ -1,56 +1,59 @@
-
 package binarySearch;
 
 import java.io.*;
 import java.util.*;
 
-// BOJ3079_입국심사
-public class BOJ3079_입국심사
-{
-	static int N, M, max;
-	static int times[];
+public class BOJ3079_입국심사 {
 
-	public static void main(String[ ] args) throws IOException
-	{
-		inputAndSettingData( );
-		System.out.println(solve( ));
-	}
+	static int N, M;
+	static long[] arr;
+	static long max = Long.MIN_VALUE;
 
-	// 이분탐색을 하는 대상은 총 소요시간
-	// start=0, end=가장 긴 time으로만 M명의 사람들을 처리할때의 시간 즉 주어진 조건에서의 최대 소요 시간이다
-	// mid에서의 시간에서 각 심사대에서 처리할수 있는 사람들의 수들을 모두 구해준다.
-	// 그 사람수를 기준으로 start, end 지점을 정해준다.
-	static long solve( )
-	{
-		long start = 0;
-		long end = (long) max * M;
-
-		while (start < end)
-		{
-			long mid = (start + end) >> 1;
+	static void solve() {
+		long left = 1;
+		long right = max * M;
+		while (left < right) {
+			long mid = (left + right) >>> 1;
 			long sum = 0;
-			for (int i = 0; i < N; i++)
-			{
-				sum += mid / times[ i ];
+			for (int i = 0; i < N; i++) {
+				sum += mid / arr[i];
+				if (sum >= M) {
+					break;
+				}
 			}
-			if (sum >= M) end = mid;
-			else start = mid + 1;
+			if (sum >= M) {
+				right = mid;
+			} else {
+				left = mid + 1;
+			}
 		}
-		return end;
+		System.out.println(right);
 	}
 
-	static void inputAndSettingData( ) throws IOException
-	{
+	public static void main(String[] args) throws IOException {
+		// BufferedReader br = readInputFile();
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine( ));
-		N = Integer.parseInt(st.nextToken( ));
-		M = Integer.parseInt(st.nextToken( ));
-		times = new int[ N ];
-		for (int i = 0; i < N; i++)
-		{
-			st = new StringTokenizer(br.readLine( ));
-			times[ i ] = Integer.parseInt(st.nextToken( ));
-			if (max < times[ i ]) max = times[ i ];
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
+		arr = new long[N];
+		for (int i = 0; i < N; i++) {
+			arr[i] = Integer.parseInt(br.readLine());
+			max = Math.max(arr[i], max);
 		}
+		solve();
+	}
+
+	private static BufferedReader readInputFile() throws IOException {
+		System.out.println("===== input =====");
+		String fileName = "input/input2.txt";
+		BufferedReader br = new BufferedReader(new FileReader(fileName));
+		BufferedReader br2 = new BufferedReader(new FileReader(fileName));
+		String s;
+		while ((s = br2.readLine()) != null) {
+			System.out.println(s);
+		}
+		System.out.println("===== output =====");
+		return br;
 	}
 }
