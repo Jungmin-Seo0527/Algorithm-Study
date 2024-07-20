@@ -322,6 +322,14 @@
 
 <br><br>
 
+### Ad-hoc
+
+***
+
+[BOJ10589 마법의 체스판 - G4](https://github.com/Jungmin-Seo0527/CodingTest/blob/main/solution/ad_hoc/BOJ10589_마법의_체스판.md)
+
+<br><br>
+
 ### PGM - Weekly Challenge
 
 ***
